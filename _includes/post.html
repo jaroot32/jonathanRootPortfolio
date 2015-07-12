@@ -5,11 +5,11 @@
 </ul>
 
 <h2>
-	<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+	<a class="post-link" href="{{site.baseurl}}{{ post.url | prepend: site.baseurl }}">
 		{{ post.title }}
 	</a>
 </h2>
 <p>{{ post.content | strip_html | strip_newlines | truncate: 200 }}</p>
 <p class="post-read-more-link">
-	<a href="{{ post.url | prepend: site.baseurl }}">read more&hellip;</a>
+	<a href="{{site.baseurl}}{{ post.url | prepend: site.baseurl }}">read more&hellip;</a>
 </p>
