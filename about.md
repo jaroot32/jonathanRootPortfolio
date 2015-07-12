@@ -4,8 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+ <p>My name is Jonathan Root and I live, work, and play in Seattle, WA.</p>
+ 
+ <p>I've learned web development through work experience and online classes.  I use a variety of “MOOCs” for training purposes. Udacity, Tutsplus, Treehouse, Codeschool, and O'Reilly Media are a few of my favorite resources.</p>
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+ <h3>Design Software</h3>
+ <p>Sublime Text 2, iTerm, Pixelmator, and Bohemian Sketch.</p> 
+ 
+ <h3>Front-End </h3>
+
+ <p>HTML5, Bourbon with Sass, JavaScript, jQuery, and other JavaScript libraries and APIs.</p>

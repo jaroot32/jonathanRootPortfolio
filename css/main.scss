@@ -22,7 +22,9 @@ $spacing-unit:     25px;
 $text-color:       #111;
 $background-color: #fefef3;
 $brand-color:      #2a507f;
-
+$yellow-color:     #f8f05d;
+$red-color:        #f85d65;
+$purple-color:     #5d65f8;
 $grey-color:       #56949b;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
@@ -56,5 +58,9 @@ $on-laptop:        800px;
 		"post",
         "base",
         "layout",
-        "syntax-highlighting"
+        "syntax-highlighting",
+        "components/gradient-bar",
+        "components/project",
+        "components/ability"
+       
 ;
