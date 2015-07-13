@@ -21,6 +21,7 @@ body {
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
+
 }
 
 
@@ -30,9 +31,25 @@ body {
  */
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
-ul, ol, dl, figure,
+ul, ol, dl, figure, 
 %vertical-rhythm {
     margin-bottom: $spacing-unit / 2;
+
+    p {
+    -webkit-column-count: 2;
+    -webkit-column-gap: 65px;
+
+}
+
+    p::first-letter {
+        font-size: 3em;
+        font-weight: normal;
+        float: left;
+        padding-right: 8px;
+
+
+    }
+
 }
 
 
@@ -81,7 +98,7 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: 500;
+    font-weight: 100;
     text-align:center;
 }
 .mega { font-size:$mega-font-size; }

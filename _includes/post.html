@@ -9,7 +9,7 @@
 		{{ post.title }}
 	</a>
 </h2>
-<p>{{ post.content | strip_html | strip_newlines | truncate: 200 }}</p>
-<p class="post-read-more-link">
+<p>{{ post.content | strip_html | strip_newlines | truncate: 350 }}</p>
+<div class="post-read-more-link">
 	<a href="{{ post.url | prepend: site.baseurl }}">read more</a>
-</p>
+</div>
