@@ -2,6 +2,8 @@
 layout: page
 title: about
 permalink: /about/
+custom_js: 
+- instafeed.min.js
 ---
 
 
@@ -15,3 +17,27 @@ permalink: /about/
  <h3>Front-End </h3>
 
  <p>HTML5, Bourbon with Sass, JavaScript, jQuery, and other JavaScript libraries and APIs.</p>
+<div id="instafeed"></div> 
+
+
+         
+<script type="text/javascript">
+
+    var userFeed = new Instafeed({
+        get: 'user',
+        userId: 1408653501,
+        accessToken: '1408653501.b04a526.f87ffd928214443f9c998470619e8290',
+        useHttp: true,
+        links: true,
+        limit: 30,
+        resolution: 'thumbnail',
+
+    });
+    userFeed.run();
+
+        </script>
+        {% if page.custom_js %}
+  {% for js_file in page.custom_js %}
+  <script src='js/{{ custom_js }}.js' type="text/javascript"></script>
+  {% endfor %}
+{% endif %}
