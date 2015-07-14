@@ -1,34 +1,32 @@
 ---
 layout: post
-title:  "Melioris est quem"
+title:  "Using the InstafeedJS API"
 date:   2015-07-09 14:43:02
 categories: blog
 featured: true
 tags: layout
 ---
 
-## Qui dotem Numidasque Thestiadae didicit aprum inmotusque
+## A fun way to integrate your Instagram account with your website.
 
-Lorem markdownum tincta imitatus ne fuit orbem Cybeleius accedit vulnerat,
-fuerunt. Rediit deus nec amplexa dixit cervicibus profecti rupit tuas quae
-frater. Aevo mens quos relictus haec: esse quo, aetherioque datus, exosa. Mergor
-et cunctis, spelunca et erat tellure serta saltumque concutit nube terra,
-[instruitur nocte](http://news.ycombinator.com/).
+Below I have the few lines of script that I am running on my about page.  The accessToken you can get from Instagram by signing up with a developer account. Remember to link your source code at the bottom of your html document. 
 
-    headerHdtv = perlOptic;
-    if (-3 + cloud_bar) {
-        rateAddress(server_udp(state, -3), lock, digitalCdn);
-        byteTracerouteFormula += parity(bug_export_fat, arpDenialExif(
-                bandwidthCardStick));
-    } else {
-        internet += compression + 2;
-    }
-    var dns = progressiveRead * party_e;
-    if (soft_uddi - stationClickDigital + cameraAtmAlert != bios(rw_protector +
-            4, optical(architecture_backside), dotBounceFlat(pci,
-            raster_data_flood))) {
-        compactDataLatency.artificial = 2;
-        transferLan = 3;
-        leopardFrequencyAdc = yahoo_optical_compiler(5);
-    }
+[View InstafeedJS](http://www.instafeedjs.com)
+
+    <script type="text/javascript">
+
+    var userFeed = new Instafeed({
+        get: 'user',
+        userId: 1408653501,
+        accessToken: 'XXXXXXXXXXXXX’',
+        useHttp: true,
+        links: true,
+        limit: 28,
+        resolution: 'thumbnail',
+
+    });
+    userFeed.run();
+
+    </script>
+
 

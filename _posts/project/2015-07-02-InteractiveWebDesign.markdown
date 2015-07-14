@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interactive Web Design"
+title:  "Interactive Web Templating"
 date:   2015-07-02 14:43:02
 categories: project
 featured: true

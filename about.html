@@ -2,8 +2,7 @@
 layout: page
 title: about
 permalink: /about/
-custom_js: 
-- instafeed.min.js
+
 ---
 
 
@@ -29,15 +28,12 @@ custom_js:
         accessToken: '1408653501.b04a526.f87ffd928214443f9c998470619e8290',
         useHttp: true,
         links: true,
-        limit: 30,
+        limit: 28,
         resolution: 'thumbnail',
 
     });
     userFeed.run();
 
-        </script>
-        {% if page.custom_js %}
-  {% for js_file in page.custom_js %}
-  <script src='js/{{ custom_js }}.js' type="text/javascript"></script>
-  {% endfor %}
-{% endif %}
+</script>
+
+     
