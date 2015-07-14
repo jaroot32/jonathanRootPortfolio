@@ -1,31 +1,29 @@
 .site-header {
-    padding:.25em 0 0;
-    color: #fff;
-    background: url('../images/header-bg.png') no-repeat fixed center;
+    background-color: #f9fef3;
     background-size:2400px 2800px;
-    border-bottom:1px solid #ccc;
     text-align:center;
        a:link {
      text-decoration: none;
  }
+    h1 {
+        font-weight: normal;
+    }
 }
 .site-nav {
     text-align:center;
+    background-color: #f3f3fe;
     ul { list-style:none; }
     li {
         display:inline-block;
-        margin:0 0.5em;
+        margin:0.5em;
         font-size:1.875em;
     }
-}
-.site-title a {
-    color: #fff;
-
 }
 
 .site-section {
     @extend %clearfix;
     padding-top:$h3-font-size;
+    background-color: #fef3f3;
 }
 .site-section-last {
     padding-bottom:$h1-font-size;
@@ -34,7 +32,7 @@
 .site-footer {
     padding:2em 0;
     color:#fff;
-    background:$grey-color-dark;
+    background:#f3fef4;
 }
 .footer-content {
     float:left;
