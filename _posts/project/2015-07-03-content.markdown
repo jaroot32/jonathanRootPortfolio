@@ -14,10 +14,10 @@ While serving as volunteer executive director for a dermatology non-profit, I ma
 The three graph images are PRWeb "insights-report" comparing four articles on traffic (impressions), interactions, and full-page reads.  As a result, the organization saw unprecedented amounts of web traffic, user sign-ups, and overall growth.
 
 
-![Full Page Reads Graph](/images/fullPageReads.png)
+![Full Page Reads](/images/fullPageReads.png)
 
 
-![Headline Graph](/images/chartHeadline.png)
+![Headline](/images/chartHeadline.png)
  
 ##Writing Samples 
 [Behavioral Retargeting Strategies for Hospitals](/blogs/BehavioralRetargeting.pdf)    
