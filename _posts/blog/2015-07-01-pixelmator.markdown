@@ -6,12 +6,12 @@ categories: blog
 tags: snippet
 ---
 
-Pixelmator is a great program to for photo and graphic editing. 
+Pixelmator is a great program for photo and graphic editing. 
 
-Freepik is an awesome resource or graphic work by amazing graphic artist. 
-The resources I am using in this tutorial are linked here. 
+Freepik is an awesome resource for graphic work by amazing graphic artists. 
+The resources I am using in this tutorial are linked at the bottom. 
 
-Start with a set of icons. I prefer Freepik.com to get started. Be sure to credit whichever artist you chose. Or even better, make a contribution.
+Start with a set of icons. Be sure to credit whichever artist you chose. 
 
 ![Face Icon Designs]({{ site.baseurl }}/images/faceIcons.png)
 
