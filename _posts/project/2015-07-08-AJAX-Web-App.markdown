@@ -15,7 +15,7 @@ featured_image: "/images/aJaxApp.png"
 
 ###Type in your street name and city and see data on Wikipedia, NY Times, as well as a Google Street View in a single page.
 
-#### Creating this web app involved how to use jQuery and Public APIs to make AJAX requests for different types of data.
+Creating this web app involved how to use jQuery and Public APIs to make AJAX requests for different types of data.
 
 ##[Test it out on Github Pages](http://jaroot32.github.io/movingApp/)
 
