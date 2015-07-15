@@ -11,17 +11,21 @@ featured_image: "/images/project2.png"
 
 
 
-Custom header-design.
+##Custom header-design.
 
-[Face designs by Freepik](http://www.freepik.com/free-vector/characters-icons_777194.htm)
+##[Face designs by Freepik](http://www.freepik.com/free-vector/characters-icons_777194.htm)
 
-Disqus commenting system installed.  
-Blog hosted by Digital Ocean.  
-Custom typography with Google Fonts.  
-Responsive layout and blogging platform.
-Ghost also recommended for speed, security, and scalability
+###Disqus commenting system installed.  
 
-[View Live](http://cinestockblocks.com/)
+###Blog hosted by Digital Ocean.  
+
+###Custom typography with Google Fonts.  
+
+###Responsive layout and blogging platform.
+
+####Ghost also recommended for speed, security, and scalability
+
+##[View Live](http://cinestockblocks.com/)
      
   
 

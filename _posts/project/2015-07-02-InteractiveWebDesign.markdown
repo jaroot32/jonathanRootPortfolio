@@ -11,8 +11,8 @@ featured_image: "/images/resumeFinal.png"
 
 ###Built with JavaScript, jQuery, and JSON objects
 
-###Deployed on Github pages.
-<br>[motis](http://www.wtfpl.net/)
+##[Deployed on Github pages.](http://jaroot32.github.io/jr-resume/)
+
 
     var bio = {
     "name" : "Jonathan Ari Root",
