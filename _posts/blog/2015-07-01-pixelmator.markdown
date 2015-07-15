@@ -13,21 +13,21 @@ The resources I am using in this tutorial are linked at the bottom.
 
 Start with a set of icons. Be sure to credit whichever artist you chose. 
 
-![Face Icon Designs]({{ site.baseurl }}/images/faceIcons.png)
+![Face Icon Designs](/images/faceIcons.png)
 
 Use the background removal tool to isolate each icon apart from it's background color.
 
-![Face Icon CutOut]({{ site.baseurl }}/images/faceIconCutOut.png)
+![Face Icon CutOut](/images/faceIconCutOut.png)
 
 Cut out each icon that you want and replace the background color.
 
 Use the grids under view to help with centering.
 
-![Face Icon Centered]({{ site.baseurl }}/images/faceswithGrid.png)
+![Face Icon Centered](/images/faceswithGrid.png)
 
 ##Final
 
-![Blog Header Final]({{ site.baseurl }}/images/finalBlogHeader.png)
+![Blog Header Final](/images/finalBlogHeader.png)
 
 ##[Face Icon Design on Freepik](http://www.freepik.com/free-vector/character-faces-icons_777192.htm#term=face&page=1&position=7)
 

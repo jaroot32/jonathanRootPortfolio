@@ -14,7 +14,7 @@ Most DSLRs have a built in light meter that will read the light coming into the 
 
 I use the light meter pictured here below.  
 
-![Video Light Meter]({{ site.baseurl }}/images/lightMeter.png)
+![Video Light Meter](/images/lightMeter.png)
 
 ## light meter 
 
@@ -26,7 +26,7 @@ The second most important instrument I would say is an analogue pre-amp.  When r
 
 I use the pre-amp below when shooting indoors.
 
-![Microphone Pre-Amp]({{ site.baseurl }}/images/preAmp.png)  
+![Microphone Pre-Amp](/images/preAmp.png)  
 
 ## a microphone pre-amp
 

@@ -20,4 +20,4 @@ The video below is an ideal example of how a physician practice can create an in
 ##[View more information on Jason and the Stage Snake Studio.](http://www.jasonperno.com/#!services/c1h6a)
 
 
-[![Q&A HD Video]({{ site.baseurl }}/images/videoPlayButton.png)](https://youtu.be/0JNVj6eAHDs)
+[![Q&A HD Video](/images/videoPlayButton.png)](https://youtu.be/0JNVj6eAHDs)
