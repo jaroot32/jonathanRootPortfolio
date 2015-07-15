@@ -4,7 +4,7 @@ email: jonroot@me.com
 description: > # this means to ignore newlines until "baseurl:"
 
 baseurl: "/jonathanRootPortfolio" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://jonathanrootdesign.com" # the base hostname & protocol for your site
 twitter_username: jonrootdesign
 github_username: jaroot32
 google_username: jonathanroot15
