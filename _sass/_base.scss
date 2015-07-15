@@ -15,7 +15,7 @@ body {
     font-family: $base-font-family;
     font-size: $base-font-size;
     line-height: $base-line-height;
-    font-weight: 700;
+    font-weight: 500;
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
@@ -42,7 +42,7 @@ ul, ol, dl, figure,
         font-size: 3em;
         font-weight: light;
         float: left;
-        padding-right: 8px;
+        padding-right: 4px;
 
 
     }
@@ -98,8 +98,8 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 100;
     text-align:center;
 }
-.mega { font-size:$mega-font-size;
-        a {color: #e8e8e8;
+.mega { font-size: $h1-font-size;
+        a {color: $text-color;
 
         } 
 
@@ -114,16 +114,17 @@ h4, .h4 { font-size: $h4-font-size; }
  * Links
  */
 a {
-    color: $brand-color;
+    color: $blue-color;
     text-decoration: none;
-    transition: .5s;
+    transition: .25s;
 
-    &:visited {
+     &:visited {
         color: darken($brand-color, 15%);
     }
+   
 
     &:hover {
-        color: $text-color;
+        color: $blue-color;;
         text-decoration: underline;
     }
 }
