@@ -1,7 +1,7 @@
 .site-header {
     background-color: #f9fef3;
     background-size:2400px 2800px;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #797979;
     text-align:center;
     padding-top: 8px;
 
@@ -18,11 +18,13 @@
 
 .site-nav {
     text-align:center;
+    color: $blue-color;
     ul { list-style:none; }
     li {
         display:inline-block;
         margin:0.5em;
         font-size:1.5em;
+
     }
 }
 
