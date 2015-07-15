@@ -22,7 +22,7 @@ The second most important instrument I would say is an analogue pre-amp.  When r
 
  Working hand in hand with a great microphone, a pre-amp will boost your sound source to line level without adding unwanted noise to the signal.  A pre-amp helps you to focus on the signal you're looking to capture by also shaping it's tone and increasing the gain. 
 
- Lastly, you will also have good material to work with in post-production With mixing and mastering your work will have the potential to sound great and your overall production will shine brighter as a result.
+ Lastly, you will also have good material to work with in post-production. With additional mixing and mastering your work will have the potential to sound great. 
 
 I use the pre-amp below when shooting indoors.
 
