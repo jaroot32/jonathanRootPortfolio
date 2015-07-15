@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "Using the InstafeedJS API"
-date:   2015-07-09 14:43:02
+date:   2015-07-02 14:43:02
 categories: blog
-featured: true
 tags: layout
 ---
 
