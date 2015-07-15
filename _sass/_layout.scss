@@ -46,9 +46,11 @@
     float:left;
     width:40%;
     font-size:0.875em;
+    padding-top: 18px;
 
-    h5 {
+    h4 {
         text-align:left;
+        color: $brand-color;
     }
 }
 .footer-social {
