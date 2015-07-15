@@ -20,10 +20,17 @@ The three graph images are PRWeb "insights-report" comparing four articles on tr
 ![Headline]({{ site.baseurl }}/images/chartHeadline.png)
  
 ##Writing Samples 
-[Behavioral Retargeting Strategies for Hospitals](/blogs/BehavioralRetargeting.pdf)    
-[Healthcare Marketing: the Power of Plain Communication](/blogs/HealthcareMarketing.pdf)    
-[Healthcare Social Media Tips](/blogs/HealthcareSocialMedia.pdf)  
-[How to Prevent a Healthcare Social Media Disaster](/blogs/HealthcareSocialMediaDisaster.pdf)    
-[Protocol #2: Marketing in the Hospital Environment](/blogs/Protocol.pdf)  
-[Selling the Patient Experience](/blogs/PatientExperience.pdf)  
-[Five Facebook Tips to Engage Hospital Staff](/blogs/FacebookTips.pdf)  
+
+##[Behavioral Retargeting Strategies for Hospitals](/blogs/BehavioralRetargeting.pdf)
+
+##[Healthcare Marketing: the Power of Plain Communication](/blogs/HealthcareMarketing.pdf)
+
+##[Healthcare Social Media Tips](/blogs/HealthcareSocialMedia.pdf)
+
+##[How to Prevent a Healthcare Social Media Disaster](/blogs/HealthcareSocialMediaDisaster.pdf)
+
+##[Protocol #2: Marketing in the Hospital Environment](/blogs/Protocol.pdf)
+
+##[Selling the Patient Experience](/blogs/PatientExperience.pdf)
+  
+##[Five Facebook Tips to Engage Hospital Staff](/blogs/FacebookTips.pdf)  
