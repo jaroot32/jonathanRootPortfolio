@@ -1,6 +1,7 @@
 .site-header {
     background-color: #f9fef3;
     background-size:2400px 2800px;
+    border-bottom:1px solid #ccc;
     text-align:center;
 
        a:link {
@@ -15,7 +16,6 @@
 
 .site-nav {
     text-align:center;
-    background-color: #f3f3fe;
     ul { list-style:none; }
     li {
         display:inline-block;
