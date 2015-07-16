@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Make a Custom Site Header with Pixelmator and Freepik"
-date:   2015-07-01 14:43:02
+date:   2015-07-01 11:10:02
 categories: blog
 tags: snippet
 ---
