@@ -7,8 +7,6 @@ featured: true
 featured_image: "/images/aJaxApp.png"
 ---
 
-###A Udacious Record Collection: Final project from Udacity's class on programming Python
-
 ###AJAX and jQuery
 
 ###  Moving Planner App
