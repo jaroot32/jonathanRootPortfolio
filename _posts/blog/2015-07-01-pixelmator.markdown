@@ -17,9 +17,6 @@ Start with a set of icons. Be sure to credit whichever artist you chose.
 
 Use the background removal tool to isolate each icon apart from it's background color.
 
-![Face Icon CutOut](/images/faceIconCutOut.png)
-
-Cut out each icon that you want and replace the background color.
 
 Use the grids under view to help with centering.
 
