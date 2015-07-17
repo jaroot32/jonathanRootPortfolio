@@ -17,9 +17,9 @@ featured_image: "/images/finalXMen.png"
 
 ####Capture each user session as a JSON file. 
 
-####Logo design by Jared K. 
+####Logo design by Jared K. Fletcher
 
-####Fletcher X-Men are a copyright of Marvel Comics.
+####X-Men are a copyright of Marvel Comics.
 
 
   
