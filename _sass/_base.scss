@@ -40,9 +40,12 @@ ul, ol, dl, figure,
 
     p::first-letter {
         font-size: 3em;
-        font-weight: light;
+        font-weight: normal;
         float: left;
-        padding-right: 4px;
+        line-height: 44px;
+        padding-top: 4px;
+        padding-right: 6px;
+
 
 
     }
