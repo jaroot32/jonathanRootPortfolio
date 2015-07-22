@@ -8,7 +8,7 @@ tags: layout
 
 ## A fun way to integrate your Instagram account with your website.
 
-Below I have the few lines of script that I am running on my about page.  The accessToken you can get from Instagram by signing up with a developer account. Remember to link your source code at the bottom of your html document. 
+Below I have the few lines of script that I am running on my about page.  The accessToken you can get from Instagram by signing up with a developer account.  Remember to link your source code at the bottom of your html document. 
 
 [View InstafeedJS](http://www.instafeedjs.com)
 
