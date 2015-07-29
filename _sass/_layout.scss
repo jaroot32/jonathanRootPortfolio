@@ -10,15 +10,18 @@
 
  }
     h1 {
-        font-weight: bold;
+        font-weight: normal;
     }
 }
 
+#sticker {
 
+    background-color: #fefef3;
+    transition: 1s;
+}
 
 .site-nav {
     text-align:center;
-    color: $blue-color;
     ul { list-style:none; }
     li {
         display:inline-block;
