@@ -2,7 +2,6 @@
 layout: page
 title: about
 permalink: /about/
-
 ---
 
 
@@ -14,12 +13,11 @@ permalink: /about/
  <h3>Front-End </h3>
 
  <p>HTML5, CSS3, JavaScript, jQuery, and other JavaScript libraries and APIs.</p>
+
 <div id="instafeed" class="instastyle"></div> 
 
-
-         
-<script type="text/javascript">
-
+<script  src="/js/instafeed.min.js" type="text/javascript"></script>
+ <script type="text/javascript">       
     var userFeed = new Instafeed({
         get: 'user',
         userId: 1408653501,
@@ -32,6 +30,6 @@ permalink: /about/
     });
     userFeed.run();
 
-</script>
+</script> 
 
      
