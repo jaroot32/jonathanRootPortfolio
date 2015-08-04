@@ -1,9 +1,3 @@
-$(document).ready( function () {
-$("#sticker").sticky({topSpacing:0});
-}); 
-
-
-
 $(document).ready(function() {
   
   $(".animsition").animsition({
