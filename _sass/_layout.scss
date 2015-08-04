@@ -1,7 +1,7 @@
 .site-header {
     background-color: #F3FEFE;
     background-size:2400px 2800px;
-    border-bottom: 1px solid #797979;
+    border-bottom: 2px solid #989f9f;
     text-align:center;
     padding-top: 8px;
 
@@ -10,7 +10,9 @@
 
  }
     h1 {
-        font-weight: normal;
+        font-weight: bold;
+        text-shadow: 1px 1px #989f9f;
+        font-size: 28px;
     }
 }
 
@@ -18,6 +20,7 @@
 
     background-color: #fefef3;
     transition: 1s;
+   
 }
 
 .site-nav {
