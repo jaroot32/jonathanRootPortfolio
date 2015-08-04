@@ -2,14 +2,14 @@
 
  
 <header class="site-header">
-	<h1 class="site-title mega"> <a href="/">Jonathan Root <br>Web Design & Development</a></h1>
+	<h1 class="site-title mega"> <a href="/" class="animsition">Jonathan Root <br>Web Design & Development</a></h1>
 </header>
 </body>
 
 <nav id="sticker" class="site-nav">
   <ul>
     {% for link in site.links %}
-      <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+      <li><a href="{{ link.url }}" class="animsition">{{ link.title }}</a></li>
     {% endfor %}
   </ul>
 </nav>
