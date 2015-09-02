@@ -7,7 +7,7 @@ featured: true
 featured_image: "/images/project2.png"
 ---
 
-## A Physician and Patient Blog  
+## A Physician and Patient Blog
 
 
 
@@ -15,17 +15,16 @@ featured_image: "/images/project2.png"
 
 ##[Face designs by Freepik](http://www.freepik.com/free-vector/characters-icons_777194.htm)
 
-###Disqus commenting system installed.  
+###Disqus commenting system installed.
 
-###Blog hosted by Digital Ocean.  
+###Blog hosted by Digital Ocean.
 
-###Custom typography with Google Fonts.  
+###Custom typography with Google Fonts.
 
 ###Responsive layout and blogging platform.
 
 ####Ghost also recommended for speed, security, and scalability
 
 ##[View Live](http://cinestockblocks.com/)
-     
-  
+
 
