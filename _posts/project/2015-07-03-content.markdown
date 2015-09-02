@@ -9,7 +9,7 @@ featured_image: "/images/project.png"
 
 ## PRWeb Ghost Writer
 
-While serving as volunteer executive director for a dermatology non-profit, I made the suggestion to start a PRWeb program. I ghost wrote for the organization's lead dermatologist and president. 
+While serving as volunteer executive director for a dermatology non-profit, I made the suggestion to start a PRWeb program. I ghost wrote for the organization's lead dermatologist and president.
 
 The three graph images are PRWeb "insights-report" comparing four articles on traffic (impressions), interactions, and full-page reads.  As a result, the organization saw unprecedented amounts of web traffic, user sign-ups, and overall growth.
 
@@ -18,8 +18,8 @@ The three graph images are PRWeb "insights-report" comparing four articles on tr
 
 
 ![Headline](/images/chartHeadline.png)
- 
-##Writing Samples 
+
+##Writing Samples
 
 ##[Behavioral Retargeting Strategies for Hospitals](/blogs/BehavioralRetargeting.pdf)
 
@@ -32,5 +32,5 @@ The three graph images are PRWeb "insights-report" comparing four articles on tr
 ##[Protocol #2: Marketing in the Hospital Environment](/blogs/Protocol.pdf)
 
 ##[Selling the Patient Experience](/blogs/PatientExperience.pdf)
-  
-##[Five Facebook Tips to Engage Hospital Staff](/blogs/FacebookTips.pdf)  
+
+##[Five Facebook Tips to Engage Hospital Staff](/blogs/FacebookTips.pdf)
