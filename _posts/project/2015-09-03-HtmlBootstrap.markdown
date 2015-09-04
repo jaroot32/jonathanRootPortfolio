@@ -9,7 +9,7 @@ featured_image: "/images/desktopViewUdacityIntroProject.png"
 
 ##HTML & Bootstrap Starter Portfolio
 
-###Udacit's Final Project: Intro to HTML & CSS w/Bootstrap
+###Udacity's Final Project: Intro to HTML & CSS w/Bootstrap
 
 ###Built with HTML & Bootstrap
 
