@@ -1,7 +1,7 @@
 .site-header {
-    background-color: #F3FEFE;
+    background-color: #fefef3;
     background-size:2400px 2800px;
-    border-bottom: 2px solid #989f9f;
+    border-bottom: 1px solid #EAEBEB;
     text-align:center;
     padding-top: 8px;
 
@@ -30,7 +30,7 @@
 .site-section {
     @extend %clearfix;
     padding-top:$h3-font-size;
-    background-color: #ffffff;
+    background-color: #FDFDFD;
 }
 .site-section-last {
     padding-bottom:$h1-font-size;
