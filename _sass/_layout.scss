@@ -62,3 +62,34 @@
 .instastyle {
     margin-left: 20px;
 }
+
+@media (max-width: 500px) {
+    .site-header {
+    background-color: #fefef3;
+    background-size:2400px 2800px;
+    border-bottom: 1px solid #EAEBEB;
+    text-align:center;
+    padding-top: 8px;
+
+       a:link {
+     text-decoration: none;
+
+ }
+    h1 {
+        font-weight: bold;
+        text-shadow: 1px 1px #989f9f;
+        font-size: 22px;
+    }
+}
+    .site-nav {
+    text-align: center;
+    ul { list-style:none; }
+    li {
+        display: inline-block;
+        margin: 0.25;
+        font-size: 1em;
+
+    }
+}
+
+}

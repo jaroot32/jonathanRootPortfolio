@@ -18,10 +18,9 @@ links:
     - title: portfolio
       url: /portfolio
     - title: process
-      url: /process 
+      url: /process
     - title: articles
       url: /articles
-     
 
 # Build settings
 markdown: kramdown
