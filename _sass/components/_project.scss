@@ -1,6 +1,7 @@
 .project-list {
 	@extend %clearfix;
-	padding:0;
+	padding-left: 2em;
+	padding-right: 2em;
 	list-style:none;
 }
 .project {
