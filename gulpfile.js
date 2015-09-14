@@ -5,7 +5,7 @@ var concat = require('gulp-concat');
 var uglify = require('gulp-uglify');
 
 gulp.task("concatScripts", function(){
-	gulp.src(['js/jquery.sticky.js', 'js/main.js'])
+	gulp.src(['bower_components/jquery/dist/jquery.min.js', 'animsition/dist/js/jquery.animsition.min.js', 'js/instafeed.min.js', 'js/main.js'])
 	.pipe(concat("app.js"))
 	.pipe(gulp.dest("js"));
 });
