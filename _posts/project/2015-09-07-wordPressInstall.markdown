@@ -4,7 +4,7 @@ title:  "WordPress Install"
 date:   2015-09-07 23:13:02
 categories: project
 featured: true
-featured_image: "/images/punaStage.jpg"
+featured_image: "/images/punaStage.png"
 ---
 
 ##Ubuntu 14.04 via a Digital Ocean Droplet
