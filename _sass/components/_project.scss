@@ -1,13 +1,11 @@
 .project-list {
 	@extend %clearfix;
-	padding-left: 2em;
-	padding-right: 2em;
 	list-style:none;
 }
 .project {
 	float:left;
-	width:28.85%;
-	padding:0 1em;
+	max-width: 33%;
+	padding:0 auto;
 	text-align:center;
 }
 .project-caption {

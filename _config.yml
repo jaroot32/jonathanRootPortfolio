@@ -13,14 +13,14 @@ linked_username: jonathanroot
 permalink: /:categories/:title
 
 links:
-    - title: about
-      url: /about
-    - title: portfolio
-      url: /portfolio
-    - title: process
-      url: /process
-    - title: articles
-      url: /articles
+    - title: About
+      url: /About
+    - title: Portfolio
+      url: /Portfolio
+    - title: Service
+      url: /Service
+    - title: Articles
+      url: /Articles
 
 # Build settings
 markdown: kramdown
