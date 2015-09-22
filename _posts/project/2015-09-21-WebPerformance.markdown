@@ -4,7 +4,7 @@ title:  "Web Performance Optimization"
 date:   2015-09-21 23:13:02
 categories: project
 featured: true
-featured_image: "/images/camsPortfolioDesktop.png"
+featured_image: "/images/camPortfolioDesktop.jpg"
 ---
 
 ##Web Performance Optimization
@@ -16,8 +16,11 @@ featured_image: "/images/camsPortfolioDesktop.png"
 ## Udacity's Web Optimization Course Project: Front-End Development Nanodegree
 
 #Situation:
+
 HTTP requests are cost page speed which effects web performance and consequently user experience.  A one percent increase in page speed can help organizations increase conversion. This translates into thousands of dollars in the eCommerce industry.
+
 #Objective:
+
 Score 90% or above on Pagespeed insights.
 
 #Actions:
@@ -42,6 +45,7 @@ Score 90% or above on Pagespeed insights.
 10) Refactor scrolling and resize pizza functions so as not to calculate the document.body.scrollTop every time the loop runs.
 
 #Result:
+
 CRP is reduced so that index.html and pizza.html run "in the green" for desktop and mobile page speed tests.  With the exception of index.html running just below 90 on mobile Pizza.html runs at 60fps.
 
 ## [View the site on gh-pages.](http://jaroot32.github.io/optimizationSite/)
