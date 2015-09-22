@@ -4,7 +4,7 @@ title:  "HTML & Bootstrap"
 date:   2015-09-03 23:13:02
 categories: project
 featured: true
-featured_image: "/images/desktopViewUdacityIntroProject.png"
+featured_image: "/images/udacityIntroDesktopView.png"
 ---
 
 ##HTML & Bootstrap Starter Portfolio
