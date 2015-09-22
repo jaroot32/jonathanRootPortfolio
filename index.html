@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 <div class="home">
@@ -7,7 +7,7 @@ layout: default
  <!-- section for featured post -->
  <!-- section for featured projects -->
 <section class="site-section">
-<h2>featured projects</h2>
+<h2>Featured Projects</h2>
 <ul class="project-list">
 {% for project in site.categories['project'] reversed | limit: 3 %}
 {% include project.html %}
@@ -20,7 +20,7 @@ layout: default
  <section class="site-section site-section-last">
 
   <div class="wrapper">
-    <h2>latest articles</h2>
+    <h2>Latest Articles</h2>
     <ul class="post-list">
       {% for post in site.categories['blog'] %}
       <li class="post">
