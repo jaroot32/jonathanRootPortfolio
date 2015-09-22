@@ -3,7 +3,7 @@ layout: post
 title:  "Interactive Web Templating"
 date:   2015-07-02 14:43:02
 categories: project
-featured: true
+featured: false
 featured_image: "/images/resumeFinal.png"
 ---
 
@@ -11,7 +11,7 @@ featured_image: "/images/resumeFinal.png"
 
 ###Built with JavaScript, jQuery, and JSON objects
 
-##[Deployed on Github pages.](http://jaroot32.github.io/jr-resume/)
+##[View on Github pages.](http://jaroot32.github.io/jr-resume/)
 
 
         var bio = {
