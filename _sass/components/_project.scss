@@ -1,6 +1,6 @@
 .project-list {
 	@extend %clearfix;
-	padding-left: 3em;
+	padding-left: 1em;
 	padding-right: 1em;
 	list-style:none;
 }
@@ -8,6 +8,7 @@
 	float: left;
 	max-width: 30%;
 	text-align:center;
+	padding: .5em;
 	margin: 0 auto;
 }
 .project-caption {
@@ -16,9 +17,14 @@
 }
 
 @media (max-width: 500px) {
+	.project-list {
+		padding-left: 1em;
+		padding-right: 1em;
+	}
  .project {
  	float: none;
  	max-width: 50%;
+ 	padding: 0 auto;
  }
 
 }
