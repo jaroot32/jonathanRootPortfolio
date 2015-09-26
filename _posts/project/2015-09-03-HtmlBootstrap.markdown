@@ -15,8 +15,7 @@ featured_image: "/images/udacityIntroDesktopView.png"
 
 ##[View on Github pages.](http://jaroot32.github.io/puppySite/)
 
-##Responsive
-![Responsive](/images/udacityIntroNatureModal.png)
+
 
 
 
