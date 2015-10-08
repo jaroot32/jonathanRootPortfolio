@@ -7,23 +7,19 @@ featured: true
 featured_image: "/images/camPortfolioDesktop.jpg"
 ---
 
-##Web Performance Optimization
+#Web Performance Optimization
 
-###Udacity's Front-end Developer Nanodegree P4
+##Udacity's Front-end Developer Nanodegree P4
 
-# Optimization Site
+###Situation:
 
-## Udacity's Web Optimization Course Project: Front-End Development Nanodegree
+HTTP requests costs page speed which negatively effects web performance and consequently the user experience.  A one percent increase in page speed can help organizations increase conversion. This translates into thousands of dollars in the eCommerce industry.
 
-#Situation:
-
-HTTP requests are cost page speed which effects web performance and consequently user experience.  A one percent increase in page speed can help organizations increase conversion. This translates into thousands of dollars in the eCommerce industry.
-
-#Objective:
+###Objective:
 
 Score 90% or above on Pagespeed insights.
 
-#Actions:
+###Actions:
 1) Compress images with tinyjpg.
 
 2) Set src for different viewport widths.
@@ -44,7 +40,7 @@ Score 90% or above on Pagespeed insights.
 
 10) Refactor scrolling and resize pizza functions so as not to calculate the document.body.scrollTop every time the loop runs.
 
-#Result:
+###Result:
 
 CRP is reduced so that index.html and pizza.html run "in the green" for desktop and mobile page speed tests.  With the exception of index.html running just below 90 on mobile Pizza.html runs at 60fps.
 
