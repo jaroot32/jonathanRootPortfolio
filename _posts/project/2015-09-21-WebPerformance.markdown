@@ -13,7 +13,7 @@ featured_image: "/images/camPortfolioDesktop.jpg"
 
 ###Situation:
 
-HTTP requests costs page speed which negatively effects web performance and consequently the User Experience.  A one percent increase in page speed can help organizations increase conversion. This translates into thousands of dollars in the eCommerce industry.
+HTTP requests costs page speed which negatively effects web performance, and consequently the User Experience.  A one percent increase in page speed can help organizations increase conversion. This translates into thousands of dollars in the eCommerce industry.
 
 Minifying scripts and compressing images will go a long way with improving page performance. Build tools such as, Gulp, help the developer's workflow by running automated build-tasks on command.
 
