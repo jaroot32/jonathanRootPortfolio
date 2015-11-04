@@ -7,7 +7,9 @@ featured: true
 featured_image: "/images/bugGame.png"
 ---
 
-# Bug Game
+# Frogger Arcade Game Clone
+
+## Udacity's Front-end Developer Nanodegree P3
 
 ## Situation:
 

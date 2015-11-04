@@ -8,14 +8,14 @@ featured_image: "/images/HomeFrontMockup.png"
 ---
 
 
-###WordPress Prototype
+## WordPress Prototype
 
-###  HomeFront Non-Profit
+##  HomeFront Non-Profit
 
-####Project Involved a Prototype plus Content Development on 70 pages.
+### The project involved a prototype plus content development on 70 pages.
 
-#####Creating prototype involved using a staging site with cPanel.
+### Creating the prototype involved using a staging site with cPanel.
 
-#####HTML pages were scraped from the old site.  I used the content and images provided by the client.
+### HTML pages were scraped from the old site.  I used the content and images provided by the client.
 
 ![Desktop](/images/HomeFrontDesktop.png)

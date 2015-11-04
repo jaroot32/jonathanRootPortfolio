@@ -7,9 +7,9 @@ featured: true
 featured_image: "/images/PunaStage.png"
 ---
 
-##Ubuntu 14.04 via a Digital Ocean Droplet
+## Ubuntu 14.04 via a Digital Ocean Droplet
 
-###*Neighborhood Place of Puna
+## *Neighborhood Place of Puna
 
 Some clients already have a theme in mind and just need to get up and running. In this situation I figure it best to configure the server and let the client have the keys.
 
