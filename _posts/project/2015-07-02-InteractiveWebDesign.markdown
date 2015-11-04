@@ -7,11 +7,11 @@ featured: false
 featured_image: "/images/resumeFinal.png"
 ---
 
-##Online Interactive Resume: Final Project from Udacity's Class on JavaScript
+## Online Interactive Resume: Final Project P2 from Udacity's Class on JavaScript
 
-###Built with JavaScript, jQuery, and JSON objects
+## Built with JavaScript, jQuery, and JSON objects
 
-##[View on Github pages.](http://jaroot32.github.io/jr-resume/)
+## [View on Github pages.](http://jaroot32.github.io/jr-resume/)
 
 
         var bio = {

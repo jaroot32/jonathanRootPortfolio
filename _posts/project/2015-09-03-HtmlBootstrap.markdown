@@ -7,13 +7,13 @@ featured: true
 featured_image: "/images/udacityIntroDesktopView.png"
 ---
 
-##HTML & Bootstrap Starter Portfolio
+## HTML & Bootstrap Starter Portfolio
 
-###Udacity's Final Project: Intro to HTML & CSS w/Bootstrap
+## Udacity's Front-end Developer Nanodegree P1
 
-###Built with HTML & Bootstrap
+## Built with HTML & Bootstrap
 
-##[View on Github pages.](http://jaroot32.github.io/puppySite/)
+## [View on Github pages.](http://jaroot32.github.io/puppySite/)
 
 
 
