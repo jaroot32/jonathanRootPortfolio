@@ -4,7 +4,7 @@ title:  "WordPress Prototype"
 date:   2015-07-20 14:43:02
 categories: project
 featured: true
-featured_image: "/images/HomeFrontMockup.png"
+featured_image: "/images/HomeFrontDesktop.png"
 ---
 
 
@@ -18,4 +18,4 @@ featured_image: "/images/HomeFrontMockup.png"
 
 ### HTML pages were scraped from the old site.  I used the content and images provided by the client.
 
-![Desktop](/images/HomeFrontDesktop.png)
+![Desktop](/images/HomeFrontMockup.png)
