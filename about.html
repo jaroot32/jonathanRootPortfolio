@@ -36,9 +36,15 @@ permalink: /About/
     userFeed.run();
     var map;
 function initMap() {
+   var myLatLng = {lat: 47.6097, lng: -122.3331}
   map = new google.maps.Map(document.getElementById('map'), {
-    center: {lat: 45.8833, lng: -90.0167},
-    zoom: 4
+    center: myLatLng,
+    zoom: 6
+  });
+   var marker = new google.maps.Marker({
+    position: myLatLng,
+    map: map,
+    title: 'Hello World!'
   });
 }
  if(document.getElementById('map') === null) {
