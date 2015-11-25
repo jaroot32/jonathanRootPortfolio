@@ -26,6 +26,16 @@ body {
     width: 100%;
 }
 
+.nascar {
+    text-align: center;
+    img {border-radius: 50%;
+        max-width: 50%}
+    ul {list-style: none;
+        padding: .10em; }
+    li {display: inline-block;
+        }
+}
+
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
