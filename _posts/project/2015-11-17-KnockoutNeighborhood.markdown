@@ -163,7 +163,7 @@ Menu code is partially from the P6 feedreader project.
 		        }
 		    }];
 
-		    var ListModel = function() {
+		    var ViewModel = function() {
 
 		        var self = this;
 		        // self.googleMap is a reference storing the Google Map Object.
@@ -323,5 +323,5 @@ Menu code is partially from the P6 feedreader project.
 		            });
 		        }());
 		    };
-		    ko.applyBindings(new ListModel());
+		    ko.applyBindings(new ViewModel());
 		};
