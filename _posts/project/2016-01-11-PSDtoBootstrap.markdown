@@ -1,21 +1,16 @@
 ---
 layout: post
-title:  "PSD to Bootstrap3"
+title:  "PSD to Bootstrap 3"
 date:   2016-01-11 23:13:02
 categories: project
 featured: true
 featured_image: "/images/PSD-to-Bootstrap-3.png"
 ---
 
-## HTML & Bootstrap Staff Page Template
-
-## Placeholder.it for placeholding images, as well as FillMurray and PlaceCage.
-
-## Built with Bootstrap CSS and Hosted on Github Pages.
 
 ##About:
 
-###PSD to Bootstrap3
+###PSD to Bootstrap 3
 
 ###Responsive - breaks down for major tablets & phones
 
