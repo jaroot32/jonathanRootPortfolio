@@ -4,7 +4,7 @@ title:  "Bootstrap Staff Page Template"
 date:   2015-11-21 23:13:02
 categories: project
 featured: true
-featured_image: "/images/InsightsView.png"
+featured_image: "/images/insights.png"
 ---
 
 ## HTML & Bootstrap Staff Page Template
