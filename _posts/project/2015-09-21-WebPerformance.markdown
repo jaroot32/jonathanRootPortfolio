@@ -4,53 +4,54 @@ title:  "Web Performance Optimization"
 date:   2015-09-21 23:13:02
 categories: project
 featured: true
-featured_image: "/images/camPortfolioDesktop.jpg"
+featured_image: "/images/Cameron-Pittman-Portfolio.png"
 ---
 
-# Web Performance Optimization
+## Web Performance Optimization
 
 ## Udacity's Front-end Developer Nanodegree P4
 
-### Situation:
+## Situation:
 
-HTTP requests costs page speed which negatively effects web performance, and consequently the User Experience.  A one percent increase in page speed can help organizations increase conversion. This translates into thousands of dollars in the eCommerce industry.
+### HTTP requests costs page speed which negatively effects web performance, and consequently the User Experience.  A one percent increase in page speed can help organizations increase conversion. This translates into thousands of dollars in the eCommerce industry.
 
-"Minifying" scripts and compressing images will go a long way with improving page performance. Build tools, such as, Gulp helps the developer's workflow by running automated build-tasks on command.
+### "Minifying" scripts and compressing images will go a long way with improving page performance. Build tools, such as, Gulp helps the developer's workflow by running automated build-tasks on command.
 
-The User Interface functionality and animations are coded in JavaScript. There are many cost effective ways to code JavaScript. Often a developer will refactor their code with each iteration. The goal is to write simpler code that does not repeat.
+### The User Interface functionality and animations are coded in JavaScript. There are many cost effective ways to code JavaScript. Often a developer will refactor their code with each iteration. The goal is to write simpler code that does not repeat.
 
-Optimizing JavaScript code will help to create a better User Experience. Animations and app functionality will be smooth and fast, thus improving the User Experience.
+### Optimizing JavaScript code will help to create a better User Experience. Animations and app functionality will be smooth and fast, thus improving the User Experience.
 
-### Objective:
+## Objective:
 
-Score 90% or above on Pagespeed insights.  Refactor JS code so that animations and UI is most optimized.
+### Score 90% or above on Pagespeed insights.  Refactor JS code so that animations and UI is most optimized.
 
-### Actions:
-1) Compress images with tinyjpg.
+## Actions:
 
-2) Set src for different viewport widths.
+### 1) Compress images with tinyjpg.
 
-3) Concatenate and minify assets with gulp for production.
+### 2) Set src for different viewport widths.
 
-4) Inline css for production.
+### 3) Concatenate and minify assets with gulp for production.
 
-5) Remove google font cdn.
+### 4) Inline css for production.
 
-6) Host on github pages.
+### 5) Remove google font cdn.
 
-7) Customize with Bootstrap.
+### 6) Host on github pages.
 
-8) Manage dependencies with Bower and NPM.
+### 7) Customize with Bootstrap.
 
-9) Comment & Beautify code.
+### 8) Manage dependencies with Bower and NPM.
 
-10) Refactor scrolling and resize pizza functions so as not to calculate the document.body.scrollTop every time the loop runs.
+### 9) Comment & Beautify code.
 
-### Result:
+### 10) Refactor scrolling and resize pizza functions so as not to calculate the document.body.scrollTop every time the loop runs.
 
-CRP is reduced so that index.html and pizza.html run "in the green" for desktop and mobile page speed tests.  With the exception of index.html running just below 90 on mobile. Pizza.html runs at 60fps while scrolling the page from top to bottom.
+## Result:
 
-### [View the site on gh-pages.](http://jaroot32.github.io/optimizationSite/)
+### CRP is reduced so that index.html and pizza.html run "in the green" for desktop and mobile page speed tests.  With the exception of index.html running just below 90 on mobile. Pizza.html runs at 60fps while scrolling the page from top to bottom.
+
+## [View the site on Github Pages](http://jaroot32.github.io/optimizationSite/)
 
 ##Here is the final edited app.js file
 
