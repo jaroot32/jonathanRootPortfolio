@@ -4,111 +4,110 @@ title:  "AJAX, APIs, & KnockoutJS"
 date:   2015-11-17 23:13:02
 categories: project
 featured: true
-featured_image: "/images/Neighborhood.png"
+featured_image: "/images/My-Neighborhood-Map.png"
 ---
 
 ## Situation:
 
-Udacity final project for the courseware on AJAX and Design Patterns.
+###Udacity final project for the courseware on AJAX and Design Patterns.
 
 ## Features:
 
-[KnockoutJS](http://knockoutjs.com/)
+###[KnockoutJS](http://knockoutjs.com/)
 
-AJAX calls to [Wikipedia API](https://www.mediawiki.org/wiki/MediaWiki)
+###AJAX calls to [Wikipedia API](https://www.mediawiki.org/wiki/MediaWiki)
 
-[jQuery](https://jquery.com/)
+###[jQuery](https://jquery.com/)
 
-[Google Maps API](https://developers.google.com/maps/?hl=en)
+###[Google Maps API](https://developers.google.com/maps/?hl=en)
 
-[Google Fonts](https://www.google.com/fonts)
+###[Google Fonts](https://www.google.com/fonts)
 
-[Bootstrap CSS](http://getbootstrap.com/)
+###[Material Design Lite](http://www.getmdl.io/)
 
-[Normalize CSS](https://necolas.github.io/normalize.css/)
+###[Normalize CSS](https://necolas.github.io/normalize.css/)
 
 
 ## Run:
 
-[View on gh-pages](http://jaroot32.github.io/movingApp/)
+###[View on Github Pages](http://jaroot32.github.io/movingApp/)
 
-Download or clone repository and open index.html
+###[Download](https://github.com/jaroot32/movingApp) or clone repository and open index.html
 
 ## Objective
 
 ### Complete the app with the following specification requirements.
 
-#### Interface Design
+## Interface Design
 
-1) All application components render on-screen in a responsive manner.
+###1) All application components render on-screen in a responsive manner.
 
-2) All application components are usable across modern desktop, tablet, and phone browsers.
+###2) All application components are usable across modern desktop, tablet, and phone browsers.
 
-#### App Functionality
+## App Functionality
 
-1) The search bar filters both the locations in the list view and the markers on the map.
+###1) The search bar filters both the locations in the list view and the markers on the map.
 
-2) List view shows locations that have been searched for, additionally clicking on a location activates its associated map marker.
+###2) List view shows locations that have been searched for, additionally clicking on a location activates its associated map marker.
 
-3) Map shows each searched location as a marker, each maker can be clicked and shows unique information about a location in an infowindow.  Markers should animate when clicked (e.g. bouncing, color change).
+###3) Map shows each searched location as a marker, each maker can be clicked and shows unique information about a location in an infowindow.  Markers should animate when clicked (e.g. bouncing, color change).
 
-#### App Architecture
+## App Architecture
 
-1) Code is properly seperated based upon Knockout's best practices (following MVVM pattern,
-avoiding updating the DOM manually, using observables rather than forcing refreshes manually, etc).
+###1) Code is properly seperated based upon Knockout's best practices (following MVVM pattern, avoiding updating the DOM manually, using observables rather than forcing refreshes manually, etc).
 
-2) Student hard codes at least 5 locations in their model.
+###2) Student hard codes at least 5 locations in their model.
 
-#### Asynchronous Data Usage
+## Asynchronous Data Usage
 
-1) Application utilizes Google's Map Api and at least one additional third-party "data API."
+###1) Application utilizes Google's Map Api and at least one additional third-party "data API."
 
-2) All data requests are retrieved in an asynchronous manner.
+###2) All data requests are retrieved in an asynchronous manner.
 
-3) Data requests that fail are handled using common fallback techniques (i.e. AJAX error or fail methods).
+###3) Data requests that fail are handled using common fallback techniques (i.e. AJAX error or fail methods).
 
-#### Location Details Functionality
+## Location Details Functionality
 
-1) Functionality providing additional data about a location is provided.
+###1) Functionality providing additional data about a location is provided.
 
-2) Application runs error free.
+###2) Application runs error free.
 
-3) Functionality is presented in a usable and responsive manner.
+###3) Functionality is presented in a usable and responsive manner.
 
-#### Search Functionality
+## Search Functionality
 
-1) A search function is provided.
+###1) A search function is provided.
 
-2) Search function runs error free.
+###2) Search function runs error free.
 
-3) A search function is presented in a usable and responsive manner.
+###3) A search function is presented in a usable and responsive manner.
 
-#### List View Functionality
+## List View Functionality
 
-1) A "list view", or some other variation of browsing the content (beyond search/map) is provided.
+###1) A "list view", or some other variation of browsing the content (beyond search/map) is provided.
 
-2) List view functionality runs error free.
+###2) List view functionality runs error free.
 
-3) A "list view", or some other variation of browsing the content (beyond search/map) is presented in a usable and responsive manner.
+###3) A "list view", or some other variation of browsing the content (beyond search/map) is presented in a usable and responsive manner.
 
-#### Code Quality
+## Code Quality
 
-1) Code is ready for personal review and neatly formatted.
+###1) Code is ready for personal review and neatly formatted.
 
-#### Comments
+## Comments
 
-1) Comments are present and effectively explain longer code procedures.
+###1) Comments are present and effectively explain longer code procedures.
 
-#### Documentation
+## Documentation
 
-1) A README file is included detailing all steps required to run the application.
+###1) A README file is included detailing all steps required to run the application.
 
 
 ## Attribution:
 
-Special thanks to Matt Prather for his mentorship on the [Udacity Forum](https://discussions.udacity.com/t/filtering-google-maps-markers-with-list-view/34660/9)
+###Special thanks to Matt Prather for his mentorship on the [Udacity Forum](https://discussions.udacity.com/t/filtering-google-maps-markers-with-list-view/34660/9)
 
-Menu code is partially from the P6 feedreader project.
+###Menu code is partially from the P6 feedreader project.
 
 
 ##Script.JS the main js file for the program

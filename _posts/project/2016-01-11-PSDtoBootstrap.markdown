@@ -20,7 +20,7 @@ featured_image: "/images/PSD-to-Bootstrap-3.png"
 
 ##Run:
 
-#[View on gh-pages](http://jaroot32.github.io/MechanixSite/)
+###[View on Github Pages](http://jaroot32.github.io/MechanixSite/)
 
 ###or [Download](https://github.com/jaroot32/MechanixSite)
 
