@@ -4,7 +4,7 @@ title:  "Interactive Web Templating"
 date:   2015-07-02 14:43:02
 categories: project
 featured: false
-featured_image: "/images/resumeFinal.png"
+featured_image: "/images/JonathanResume.png"
 ---
 
 ## Online Interactive Resume: Final Project P2 from Udacity's Class on JavaScript
