@@ -9,12 +9,13 @@ featured_image: "/images/insights.png"
 
 ## HTML & Bootstrap Staff Page Template
 
-## Placeholder.it for placeholding images, as well as FillMurray and PlaceCage.
+### Placeholder.it for placeholding images, as well as FillMurray and PlaceCage.
 
-## Built with Bootstrap CSS and Hosted on Github Pages.
+### Built with Bootstrap CSS and Hosted on Github Pages.
 
-## [View on Github pages.](http://jaroot32.github.io/insights/)
+### [View on Github Pages.](http://jaroot32.github.io/insights/)
 
+###HTML Markup
 
 		<!doctype html>
 		<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
