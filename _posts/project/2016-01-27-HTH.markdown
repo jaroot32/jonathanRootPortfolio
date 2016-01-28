@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "WordPress and Bootstrap 3 w/Modern Front-end Development Workflow"
-date:   2016-01-21 23:13:02
+date:   2016-01-27 23:13:02
 categories: project
 featured: true
-featured_image: "/images/DishesByDoe.png"
+featured_image: "/images/HTH.png"
 ---
 
 
@@ -26,7 +26,7 @@ featured_image: "/images/DishesByDoe.png"
 
 ###Dishes By Doe is part of the Doe Fund and for the past 30 years has provided a hand up, not a hand out to formerly homeless and incarcerated men.
 
-###[View on Digital Ocean](http://192.241.250.5//)
+###[View on Digital Ocean](http://http://104.236.109.115/)
 
 
 
