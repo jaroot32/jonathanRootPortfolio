@@ -14,7 +14,7 @@ featured_image: "/images/DishesByDoe.png"
 
 ###Responsive - breaks down for major tablets & phones
 
-###WordPress CMS - Site uses WordPress CMS as a backend and can't be updated by site admins.
+###WordPress CMS - Site uses WordPress CMS as a backend and can be updated by site admins.
 
 ###Bootstrap 3
 
