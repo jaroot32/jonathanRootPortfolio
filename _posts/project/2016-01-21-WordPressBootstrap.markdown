@@ -20,7 +20,7 @@ featured_image: "/images/DishesByDoe.png"
 
 ###Browsers - All modern browsers
 
-#### For this website I used a modern Front-end Development kit called [Sage](https://roots.io/sage/).  Sage uses Bootstrap, Gulp, Sass, and Bower for package dependencies.  I used Vagrant as my local environment with a package called Trellis.  Both Sage and Trellis are part of Roots. Roots strives to keep up with a modern front-end workflow open source tools and a lean backend by employing DRY programming principles wherever possible.
+#### For this website I used a modern Front-end Development kit called [Sage](https://roots.io/sage/).  Sage uses Bootstrap, Gulp, Sass, and Bower for package dependencies.  I used Vagrant as my local environment with a package called Trellis.  Both Sage and Trellis are part of Roots. Roots strives to keep up with a modern front-end workflow, open source tools, and a lean backend by employing DRY programming principles wherever possible.
 
 ####Overall, I was able to preserve an archive of over 100 pages and several hundred photos. 
 
