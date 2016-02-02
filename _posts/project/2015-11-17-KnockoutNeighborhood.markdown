@@ -4,7 +4,7 @@ title:  "AJAX, APIs, & KnockoutJS"
 date:   2015-11-17 23:13:02
 categories: project
 featured: true
-featured_image: "/images/My-Neighborhood-Map.png"
+featured_image: "/images/My-Neighborhood-Map.jpg"
 ---
 
 ## Situation:
