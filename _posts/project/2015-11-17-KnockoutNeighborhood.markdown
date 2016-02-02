@@ -9,7 +9,7 @@ featured_image: "/images/My-Neighborhood-Map.jpg"
 
 ## Situation:
 
-###Udacity final project for the courseware on AJAX and Design Patterns.
+### Udacity final project for the courseware on AJAX and Design Patterns.
 
 ## Features:
 
