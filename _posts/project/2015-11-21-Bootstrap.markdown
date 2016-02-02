@@ -15,7 +15,7 @@ featured_image: "/images/insights.png"
 
 ### [View on Github Pages.](http://jaroot32.github.io/insights/)
 
-###HTML Markup
+### HTML Markup
 
 		<!doctype html>
 		<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->

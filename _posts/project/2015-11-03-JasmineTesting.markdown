@@ -9,7 +9,7 @@ featured_image: "/images/UdaciFeeds.png"
 
 ## Project Overview
 
-###The student is given a web-based application that reads RSS feeds.  The application has an incomplete test suite. The student must complete the suite of tests below to meet specification.
+### The student is given a web-based application that reads RSS feeds.  The application has an incomplete test suite. The student must complete the suite of tests below to meet specification.
 
 
 ## How will I complete this project?
@@ -34,7 +34,7 @@ featured_image: "/images/UdaciFeeds.png"
 
 ## [View on Github Pages](http://jaroot32.github.io/JasmineTest-Project6/)
 
-##Final feedreader.js spec file
+## Final feedreader.js spec file
 
 	'use strict';
 	$(function() {

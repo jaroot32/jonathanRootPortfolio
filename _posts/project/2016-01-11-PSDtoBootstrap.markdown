@@ -8,24 +8,24 @@ featured_image: "/images/PSD-to-Bootstrap-3.png"
 ---
 
 
-##About:
+## About:
 
-###PSD to Bootstrap 3
+### PSD to Bootstrap 3
 
-###Responsive - breaks down for major tablets & phones
+### Responsive - breaks down for major tablets & phones
 
-###Bootstrap 3
+###  Bootstrap 3
 
-###Browsers - All modern browsers
+### Browsers - All modern browsers
 
-##Run:
+## Run:
 
-###[View on Github Pages](http://jaroot32.github.io/MechanixSite/)
+### [View on Github Pages](http://jaroot32.github.io/MechanixSite/)
 
-###or [Download](https://github.com/jaroot32/MechanixSite)
+### or [Download](https://github.com/jaroot32/MechanixSite)
 
-###cd into directory
+### cd into directory
 
-###bower install
+### bower install
 
-###open index.html in your browser.
+### open index.html in your browser.
