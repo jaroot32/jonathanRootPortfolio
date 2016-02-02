@@ -13,26 +13,26 @@ featured_image: "/images/My-Neighborhood-Map.jpg"
 
 ## Features:
 
-###[KnockoutJS](http://knockoutjs.com/)
+### [KnockoutJS](http://knockoutjs.com/)
 
-###AJAX calls to [Wikipedia API](https://www.mediawiki.org/wiki/MediaWiki)
+### AJAX calls to [Wikipedia API](https://www.mediawiki.org/wiki/MediaWiki)
 
-###[jQuery](https://jquery.com/)
+### [jQuery](https://jquery.com/)
 
-###[Google Maps API](https://developers.google.com/maps/?hl=en)
+### [Google Maps API](https://developers.google.com/maps/?hl=en)
 
-###[Google Fonts](https://www.google.com/fonts)
+### [Google Fonts](https://www.google.com/fonts)
 
-###[Material Design Lite](http://www.getmdl.io/)
+### [Bootstrap](https://www.getbootstrap.com/)
 
-###[Normalize CSS](https://necolas.github.io/normalize.css/)
+### [Normalize CSS](https://necolas.github.io/normalize.css/)
 
 
 ## Run:
 
-###[View on Github Pages](http://jaroot32.github.io/movingApp/)
+### [View on Github Pages](http://jaroot32.github.io/movingApp/)
 
-###[Download](https://github.com/jaroot32/movingApp) or clone repository and open index.html
+### [Download](https://github.com/jaroot32/movingApp) or clone repository and open index.html
 
 ## Objective
 
