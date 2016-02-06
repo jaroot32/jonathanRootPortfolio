@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Flexbox & jQuery Scrolling Menu"
-date:   2016-01-27 23:13:02
+date:   2016-01-27 20:13:02
 categories: project
 featured: true
 featured_image: "/images/Responsive.png"
