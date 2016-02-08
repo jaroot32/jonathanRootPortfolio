@@ -14,7 +14,7 @@ featured_image: "/images/CSS3CarBanner.png"
 
 ### I was supplied the car photos and was asked to make an animated advertisement for the web.
 
-### One of the main benefits of using CSS animations is that they're not plug-in dependent like flash.
+### One of the main benefits of using CSS animations is that they're not plug-in dependent.
 
 ### [View on gh-pages](http://jaroot32.github.io/CSSCarAds/)
 
