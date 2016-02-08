@@ -1,15 +1,16 @@
-<nav class="site-nav">
+
+<header class="site-header">
+	<h1 class="site-title mega"> <a href="/" class="animsition">Jonathan Root <br>Visual Design & Front-End Development</a></h1>
+</header>
+</body>
+
+<nav id="sticker" class="site-nav">
   <ul>
     {% for link in site.links %}
-      <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+      <li><a href="{{ link.url }}" class="animsition">{{ link.title }}</a></li>
     {% endfor %}
   </ul>
 </nav>
+<script>
 
-<header class="site-header">
-
- <a href="/"> <h1 class="site-title">Jonathan Root <br>Design & Development</h1></a>
-  
-
-
-</header>
+</script>

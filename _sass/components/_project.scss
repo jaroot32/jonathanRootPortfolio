@@ -1,16 +1,30 @@
 .project-list {
 	@extend %clearfix;
-	padding:0;
+	padding-left: 1em;
+	padding-right: 1em;
 	list-style:none;
-	
 }
 .project {
-	float:left;
-	width:33.33%;
-	padding:0 1em;
+	float: left;
+	max-width: 30%;
 	text-align:center;
+	padding: .5em;
+	margin: 0 auto;
 }
 .project-caption {
 	margin-top:0.5em;
 	font-size:$h3-font-size;
+}
+
+@media (max-width: 500px) {
+	.project-list {
+		padding-left: 1em;
+		padding-right: 1em;
+	}
+ .project {
+ 	float: none;
+ 	max-width: 50%;
+ 	padding: 0 auto;
+ }
+
 }

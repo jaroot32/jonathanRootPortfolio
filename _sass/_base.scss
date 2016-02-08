@@ -4,11 +4,9 @@
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
-    margin: 0;
-    padding: 0;
+    margin: 0 ;
+    padding: 0 ;
 }
-
-
 
 /**
  * Basic styling
@@ -17,12 +15,26 @@ body {
     font-family: $base-font-family;
     font-size: $base-font-size;
     line-height: $base-line-height;
-    font-weight: 300;
+    font-weight: 400;
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
 }
 
+#map {
+    height: 500px;
+    width: 100%;
+}
+
+.nascar {
+    text-align: center;
+    img {border-radius: 50%;
+        max-width: 50%}
+    ul {list-style: none;
+        padding: .10em; }
+    li {display: inline-block;
+        }
+}
 
 
 /**
@@ -33,6 +45,22 @@ p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
     margin-bottom: $spacing-unit / 2;
+
+    p {
+    -webkit-column-count: 2;
+    margin-left: 8px;
+
+}
+
+    p::first-letter {
+        font-size: 3em;
+        font-weight: normal;
+        float: left;
+        line-height: 44px;
+        padding-top: 4px;
+        padding-right: 6px;
+    }
+
 }
 
 
@@ -64,7 +92,6 @@ figcaption {
  * Lists
  */
 ul, ol {
-    margin-left: $spacing-unit;
     list-style: none;
 }
 
@@ -84,7 +111,12 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 500;
     text-align:center;
 }
-.mega { font-size:$mega-font-size; }
+.mega { font-size: $h1-font-size;
+        a {color: $text-color;
+
+        }
+
+    }
 h1, .h1 { font-size: $h1-font-size; }
 h2, .h2 { font-size: $h2-font-size; }
 h3, .h3 { font-size: $h3-font-size; }
@@ -95,16 +127,16 @@ h4, .h4 { font-size: $h4-font-size; }
  * Links
  */
 a {
-    color: $brand-color;
+    color: $blue-color;
     text-decoration: none;
-    transition: .5s;
+    transition: .25s;
 
-    &:visited {
+     &:visited {
         color: darken($brand-color, 15%);
     }
 
     &:hover {
-        color: $text-color;
+        color: $blue-color;;
         text-decoration: underline;
     }
 }
@@ -209,3 +241,42 @@ pre {
         }
     }
 }
+
+@media (max-width: 500px) {
+    body {
+    font-family: $base-font-family;
+    font-size: $base-font-size;
+    line-height: $base-line-height;
+    font-weight: 400;
+    color: $text-color;
+    background-color: $background-color;
+    -webkit-text-size-adjust: 100%;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;
+    text-align:center;
+}
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+ul, ol, dl, figure,
+%vertical-rhythm {
+    margin-bottom: $spacing-unit / 2;
+
+    p {
+    -webkit-column-count: 1;
+    margin: 8px;
+
+}
+
+    p::first-letter {
+        font-size: 2.75em;
+        font-weight: normal;
+        float: left;
+        line-height: 44px;
+        padding-top: 4px;
+        padding-right: 4px;
+    }
+  }
+}
+
+
