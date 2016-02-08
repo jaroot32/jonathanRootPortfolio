@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "CSS3 Animated Car Advertisement"
+date:   2016-02-08 19:13:02
+categories: project
+featured: true
+featured_image: "/images/CSS3CarBanner.png"
+---
+
+
+## About: 
+
+### CSS3 Animated Winter Snowfall Car Advertisement
+
+### I was supplied the car photos and was asked to make an animated advertisement for the web.
+
+### One of the main benefits of using CSS animations is that they're not plug-in dependent like flash.
+
+### [View on gh-pages](http://jaroot32.github.io/CSSCarAds/)
+
+
+
