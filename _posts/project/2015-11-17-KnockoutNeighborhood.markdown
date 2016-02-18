@@ -105,12 +105,12 @@ featured_image: "/images/My-Neighborhood-Map.png"
 
 ## Attribution:
 
-###Special thanks to Matt Prather for his mentorship on the [Udacity Forum](https://discussions.udacity.com/t/filtering-google-maps-markers-with-list-view/34660/9)
+### Special thanks to Matt Prather for his mentorship on the [Udacity Forum](https://discussions.udacity.com/t/filtering-google-maps-markers-with-list-view/34660/9)
 
-###Menu code is partially from the P6 feedreader project.
+### Menu code is partially from the P6 feedreader project.
 
 
-##Script.JS the main js file for the program
+## Script.JS the main js file for the program
 
 		var googleSuccess = function() {
 		    "use strict";
