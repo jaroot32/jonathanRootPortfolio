@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Content Dev"
+title:  "Content Development"
 date:   2015-07-08 14:43:02
 categories: project
 featured: true
