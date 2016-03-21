@@ -20,7 +20,7 @@ The second most important instrument I would say is an analogue pre-amp.  When r
 
  Working hand in hand with a great microphone, a pre-amp will boost your sound source to line level without adding unwanted noise to the signal.  A pre-amp helps you to focus on the signal you're looking to capture by also shaping it's tone and increasing the gain. 
 
- Lastly, you will also have good material to work with in post-production.  With additional mixing and mastering your work will have the potential to sound great. 
+ Lastly, you will also have good material to work with in post-production.  With additional mixing and mastering your work will have the potential to sound great.
 
 I use the pre-amp below when shooting indoors.
 
@@ -28,3 +28,18 @@ I use the pre-amp below when shooting indoors.
 
 ## a microphone pre-amp
 
+
+# Cinematic HD Interview
+
+### A beautiful way to introduce yourself, new products, and ideas.
+
+### Impress your audience and show you really care.
+
+The video below is an ideal example of how a physician practice can create an in-depth take home video for the patient. There are many frequently asked questions given any medical issue.You can  provide those basic answers in a video.
+
+*Video and audio production is done in partnership with Stage Snake Studios.  Audio and video mixing, editing, and mastering is also available upon request.
+
+## [View more information on Jason and the Stage Snake Studio.](http://www.jasonperno.com/#!services/c1h6a)
+
+
+[![Q&A HD Video](/images/videoPlayButton.png)](https://youtu.be/0JNVj6eAHDs)

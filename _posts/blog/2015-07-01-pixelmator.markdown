@@ -8,8 +8,7 @@ tags: snippet
 
 Pixelmator is a great program for photo and graphic editing. 
 
-Freepik is an awesome resource for graphic work by amazing graphic artists. 
-The resources I am using in this tutorial are linked at the bottom. 
+Freepik is an awesome resource for graphic work by amazing graphic artists. The resources I am using in this tutorial are linked at the bottom. 
 
 Start with a set of icons. Be sure to credit whichever artist you chose. 
 
@@ -22,11 +21,12 @@ Use the grids under view to help with centering.
 
 ![Face Icon Centered](/images/faceswithGrid.png)
 
-##Final
+## Final
 
-![Blog Header Final](/images/finalBlogHeader.png)
+![Blog Header Final](/images/project2.png)
 
 ##[Face Icon Design on Freepik](http://www.freepik.com/free-vector/character-faces-icons_777192.htm#term=face&page=1&position=7)
 
 ##[Medical Icon Design on Freepik](http://www.freepik.com/free-vector/flat-round-medical-icons-set_724070.htm#term=medical&page=1&position=19)
 
+##[Face designs by Freepik](http://www.freepik.com/free-vector/characters-icons_777194.htm)
