@@ -3,22 +3,18 @@ layout: page
 ---
 
 <div class="home">
-
  <!-- section for featured post -->
  <!-- section for featured projects -->
 <section class="site-section">
-<h2>Featured Projects</h2>
-<ul class="project-list">
-{% for project in site.categories['project'] reversed | limit: 3 %}
-{% include project.html %}
-
-{% endfor %}
-</ul>
+  <h2>Featured Projects</h2>
+    <ul class="project-list">
+      {% for project in site.categories['project'] reversed | limit: 3 %}
+      {% include project.html %}
+      {% endfor %}
+    </ul>
 </section>
-
  <!-- section for latest articles -->
  <section class="site-section site-section-last">
-
   <div class="wrapper">
     <h2>Latest Articles</h2>
     <ul class="post-list">
@@ -29,9 +25,7 @@ layout: page
       {% endfor %}
     </ul>
   </div>
-
  </section>
-
 </div>
 
 

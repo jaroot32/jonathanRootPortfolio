@@ -1,24 +1,26 @@
 .site-header {
-    background-color: #fefef3;
-    background-size:2400px 2800px;
+    background: url('/images/square_bg.png');
+    background-size: 400px 400px;
     border-bottom: 1px solid #EAEBEB;
-    text-align:center;
-    padding-top: 8px;
+    text-align: center;
+    padding-top: 1em;
 
-       a:link {
+a:link {
      text-decoration: none;
-
  }
-    h1 {
+
+h1 {
         font-weight: bold;
         text-shadow: 1px 1px #989f9f;
-        font-size: 28px;
+        font-size: 36px;
     }
 }
 
 .site-nav {
     text-align: center;
-    ul { list-style:none; }
+    ul {
+        list-style: none;
+    }
     li {
         display: inline-block;
         margin-top: 0.5em;
@@ -32,20 +34,22 @@
     @extend %clearfix;
     background-color: #FDFDFD;
 }
+
 .site-section-last {
-    padding-bottom:$h1-font-size;
-    padding-left: 0 5em;
+    padding-bottom: $h1-font-size;
+    padding-left: 0 1em;
 }
 
 .site-footer {
-    padding:2em 0;
-    color:#fff;
-    background:#f3fef4;
+    padding: 2em 0;
+    color: #fff;
+    background: #f3fef4;
 }
+
 .footer-content {
-    float:left;
-    width:40%;
-    font-size:0.875em;
+    float: left;
+    width: 40%;
+    font-size: 0.875em;
     padding-top: 18px;
 
     h4 {
@@ -53,11 +57,12 @@
         color: $brand-color;
     }
 }
+
 .footer-social {
     float:right;
     li {
-        display:inline-block;
-        margin:0 0.5em;
+        display: inline-block;
+        margin: 0 0.5em;
     }
 }
 
@@ -69,17 +74,15 @@
     }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 499px) {
     .site-header {
     background-color: #fefef3;
     background-size:2400px 2800px;
     border-bottom: 1px solid #EAEBEB;
-    text-align:center;
+    text-align: center;
     padding-top: 8px;
-
-       a:link {
+    a:link {
      text-decoration: none;
-
  }
     h1 {
         font-weight: bold;
@@ -89,12 +92,11 @@
 }
     .site-nav {
     text-align: center;
-    ul { list-style:none; }
+    ul { list-style: none; }
     li {
         display: inline-block;
         margin: 0.25;
         font-size: 1em;
-
         }
     }
 }

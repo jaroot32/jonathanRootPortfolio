@@ -2,29 +2,30 @@
 	@extend %clearfix;
 	padding-left: 1em;
 	padding-right: 1em;
-	list-style:none;
+	list-style: none;
 }
 .project {
 	float: left;
-	max-width: 30%;
-	text-align:center;
-	padding: .5em;
-	margin: 0 auto;
+	width: 33.33%;
+	text-align: center;
+	padding: 0 1em;
 }
 .project-caption {
-	margin-top:0.5em;
-	font-size:$h3-font-size;
+	margin-top: 0.5em;
+	font-size: $h3-font-size;
 }
 
-@media (max-width: 500px) {
-	.project-list {
-		padding-left: 1em;
-		padding-right: 1em;
+@media (max-width: 1000px) {
+	ul.project-list {
+		list-style: none;
+		img {
+			max-width: 100%;
+			margin: 0 auto;
+		}
 	}
  .project {
- 	float: none;
- 	max-width: 50%;
- 	padding: 0 auto;
+ 	float: left;
+ 	width: 100%;
+ 	text-align: center;
  }
-
 }
