@@ -1,28 +1,22 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /About/
 ---
 
+<div class="post-header">
+    <h1>About</h1>
+</div>
 
  <h4>My name is Jonathan Root and I live, work, and play in Seattle, WA.</h4>
 <a href="/images/JRootResume.pdf"><h4>My Resume</h4></a>
- <h2>Design Software</h2>
- <h4>Pixelmator and Bohemian Sketch.</h4>
-
- <h2>Development Software </h2>
 
  <h4>HTML, CSS, and JavaScript</h4>
 
 <div id="instafeed" class="instastyle"></div>
 
-<h2>Education and Work History</h2>
-<div id="mapDiv"></div>
-<div id="map"></div>
-
-
 <script  src="/js/instafeed.min.js" type="text/javascript"></script>
- <script type="text/javascript">
+<script type="text/javascript">
     var userFeed = new Instafeed({
         get: 'user',
         userId: 1408653501,
@@ -34,54 +28,6 @@ permalink: /About/
 
     });
     userFeed.run();
-    var map;
-function initMap() {
-   var myLatLng = {lat: 47.6097, lng: -122.3331}
-  map = new google.maps.Map(document.getElementById('map'), {
-    center: myLatLng,
-    zoom: 6
-  });
-    var contentString = '<div id="content">'+
-      '<div id="siteNotice">'+
-      '</div>'+
-      '<h1 id="firstHeading" class="firstHeading"></h1>'+
-      '<div id="bodyContent">'+
-      '<p><b></b> <b></b>  ' +
-      '<p>Dear Visitor,</p>'+
-      '<p>I am currently looking for Front-end Development and multi-media design work.</p>'+
-      '<p>Over the past 8 years I have held several positions in advertising sales, marketing, and web development.  I recently graduated from Udacity’s Front-end Developer Nanodegree.</p>'+
-      '<p>My multi-media design and front-end development portfolio, ' + '<a href="http://www.jonathanrootdesign.com">Jonathan Root Design</a>'+' has a variety of examples showcasing my web work.</p>'+
-      '<p>It is my belief we have something to offer one another, and in that spirit I look forward to your response. Please feel free to contact me at '+'<a href="tel: (845) 796-6569">1-845-796-6569</a>'+' or email ' + '<a href="mailto:jonathanroot15@gmail.com">me</a>.</p>'+
-      '<p>I look forward to hearing from you.</p>'+
-      '<p>Thank you,</p>'+
-      '</p>'+
-      '<p>Jonathan Root</p>'+
-      '</div>'+
-      '</div>';
 
-  var infowindow = new google.maps.InfoWindow({
-    content: contentString
-  });
-   var marker = new google.maps.Marker({
-    position: myLatLng,
-    map: map,
-    title: 'Hello World!'
-  });
-    marker.addListener('click', function() {
-    infowindow.open(map, marker);
-  });
-     // Calls the initializeMap() function when the page loads
-window.addEventListener('load', initMap);
-
- //Vanilla JS way to listen for resizing of the window
- //and adjust map bounds
-//window.addEventListener('resize', function(e) {
- //  Make sure the map bounds get updated on page resize
-  //map.fitBounds(mapBounds);
-//});
-}
- if(document.getElementById('map') === null) {
-      document.getElementById('mapDiv').style.display = 'none';
-    }
 </script>
 

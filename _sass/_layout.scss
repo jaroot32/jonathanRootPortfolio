@@ -1,8 +1,28 @@
-.site-header {
+header {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  top: 0;
+  text-align: center;
+  height: auto;
+  z-index: 100;
+  border-top: 0;
+  background-color: transparent;
+  transition: all 0.1s ease-in-out;
+}
+
+header.active {
+  background-color: #fff;
+  -webkit-box-shadow: 0 1px 5px rgba(0,   0, 0, 0.25);
+  -moz-box-shadow: 0 1px 5px rgba(0, 0,   0, 0.25);
+  box-shadow: 0 1px 5px rgba(0, 0, 0,     0.25);
+}
+.logo {
     background: url('/images/square_bg.png');
     background-size: 400px 400px;
     border-bottom: 1px solid #EAEBEB;
     text-align: center;
+    margin-top: 4em;
     padding-top: 1em;
 
 a:link {
@@ -20,12 +40,11 @@ h1 {
     text-align: center;
     ul {
         list-style: none;
+        margin-bottom:  0;
     }
     li {
         display: inline-block;
-        margin-top: 0.5em;
-        margin-right: .5em;
-        margin-left: .5em;
+        margin: .65em;
         font-size: 1.5em;
     }
 }
@@ -75,12 +94,12 @@ h1 {
 }
 
 @media (max-width: 499px) {
-    .site-header {
+.site-header {
     background-color: #fefef3;
     background-size:2400px 2800px;
     border-bottom: 1px solid #EAEBEB;
     text-align: center;
-    padding-top: 8px;
+    padding-top: 1em;
     a:link {
      text-decoration: none;
  }
@@ -90,7 +109,7 @@ h1 {
         font-size: 22px;
     }
 }
-    .site-nav {
+.site-nav {
     text-align: center;
     ul { list-style: none; }
     li {

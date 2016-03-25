@@ -38,6 +38,7 @@
 
 .post-header {
 	text-align: center;
+	margin-top: 2em;
 }
 
 .post-title {
@@ -52,11 +53,6 @@
 .post-body {
 	max-width: 100%;
 	margin: $h2-font-size auto;
-
-	h1, h2, h3, h4 {
-		max-width: 80%;
-		margin: $h2-font-size auto;
-	}
 	p img {
 		display: block;
 		margin-left: auto;
