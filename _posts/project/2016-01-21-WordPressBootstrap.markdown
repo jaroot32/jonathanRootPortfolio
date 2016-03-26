@@ -53,4 +53,5 @@ For more than 30 years, The Doe Fund, Inc. has provided a hand up, not a hand ou
 
 #### After
 
-![Trifold Menu Inside](/images/OutsideMenu.jpg)
+![Trifold Menu Inside](/images/InsideMenu.jpg)
+![Trifold Menu Outside](/images/OutsideMenu.jpg)
