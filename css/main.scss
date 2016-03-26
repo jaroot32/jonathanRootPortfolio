@@ -35,12 +35,7 @@ $content-width:    1600px;
 $on-palm:          600px;
 $on-laptop:        1200px;
 
-@media ($on-palm) {
-     .wrapper {
-         padding-right: $spacing-unit / 2;
-         padding-left: $spacing-unit / 2;
-     }
- }
+
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
         @content;
