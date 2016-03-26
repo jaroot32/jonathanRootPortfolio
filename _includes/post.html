@@ -5,12 +5,12 @@
 </ul>
 
 <h2>
-	<a class="post-link" href="{{ post.url }}" class="animsition">
+	<a class="post-link" href="{{ post.url }}">
 		{{ post.title }}
 	</a>
 </h2>
 <p>{{ post.content | strip_html | strip_newlines | truncate: 400 }}</p>
 <div class="post-read-more-link">
-	<a href="{{ post.url }}" class="animsition">read more</a>
+	<a href="{{ post.url }}">read more</a>
 </div>
 
