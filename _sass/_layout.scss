@@ -17,7 +17,22 @@ header.active {
   -moz-box-shadow: 0 1px 5px rgba(0, 0,   0, 0.25);
   box-shadow: 0 1px 5px rgba(0, 0, 0,     0.25);
 }
+.parallax {
+  [class*="logo"] {
+    position : relative;
 
+    height : 15vh;
+
+
+    background-attachment : fixed;
+    background-position   : top center;
+    background-size       : cover;
+    
+    &:nth-child( 2n ) {
+      box-shadow : inset 0 0 1em #111; 
+    }
+  }
+}
 .logo {
     background: url('/images/square_bg.png');
     background-size: 400px 400px;
