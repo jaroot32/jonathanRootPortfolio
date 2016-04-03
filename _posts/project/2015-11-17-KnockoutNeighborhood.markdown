@@ -46,7 +46,7 @@ featured_image: "/images/My-Neighborhood-Map.png"
 
 ## App Functionality
 
-###The search bar filters both the locations in the list view and the markers on the map.
+### The search bar filters both the locations in the list view and the markers on the map.
 
 ### List view shows locations that have been searched for, additionally clicking on a location activates its associated map marker.
 
