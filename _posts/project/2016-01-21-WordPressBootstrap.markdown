@@ -26,7 +26,7 @@ featured_image: "/images/DishesByDoe.png"
 
 ### Dishes By Doe is part of the Doe Fund and for the past 30 years has provided a hand up, not a hand out to formerly homeless and incarcerated men.
 
-### [View on Digital Ocean](http://192.241.250.5//)
+<!--### [View on Digital Ocean](http://192.241.250.5//)-->
 
 ### For this project I also created the catering menu.
 
