@@ -7,26 +7,17 @@ permalink: /About/
 <div class="post-header">
     <h1>About</h1>
 </div>
-<div>
-     <h4>My name is Jonathan Root and I live, work, and play in Seattle, WA.</h4>
-        <a href="/images/JRootResume.pdf"><h4>My Resume</h4></a>
-     <h4>HTML, CSS, and JavaScript</h4>
- </div>
-<div id="instafeed" class="instastyle"></div>
-
-<script  src="/js/instafeed.min.js" type="text/javascript"></script>
-<script type="text/javascript">
-    var userFeed = new Instafeed({
-        clientId: 'b04a526f69844ebab4f021b1d54a6fe1',
-        accessToken: '1408653501.b04a526.f87ffd928214443f9c998470619e8290',
-        get: 'user',
-        userId: 1408653501,
-        target: 'instafeed',
-        useHttp: true,
-        links: true,
-        limit: 18,
-        resolution: 'thumbnail',
-    });
-    userFeed.run();
-</script>
-
+    <div>
+        <h4>My name is Jonathan Root and I live, work, and play in Seattle, WA.</h4>
+            <a href="/images/JRootResume.pdf"><h4>My Resume</h4></a>
+        <h4>HTML, CSS, and JavaScript</h4>
+    </div>
+<section class="instagram-wrap">
+    <div class="instagram-content">
+        <h3>Latest Photos</h3>
+        <div class="row photos-wrap">
+            <div id="instafeed"></div>
+        </div>
+    </div>
+</section>
+<script type="text/javascript" src="/js/instafeed.min.js"></script>

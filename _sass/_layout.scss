@@ -97,14 +97,7 @@ h1 {
     }
 }
 
-#instafeed {
-    padding-left: 2em;
-    padding-bottom: 1em;
-    img {
-        margin: 0 auto;
-        padding: 0 auto;
-    }
-}
+
 
 @media (max-width: 499px) {
 .site-header {
@@ -131,12 +124,4 @@ h1 {
         font-size: 1em;
         }
     }
-    #instafeed {
-    padding-left: 3.5em;
-    padding-bottom: 1em;
-    img {
-        margin: 0 auto;
-        padding: 0 auto;
-    }
-}
 }

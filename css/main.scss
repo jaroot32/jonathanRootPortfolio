@@ -6,6 +6,7 @@
 
 // Our variables
 $base-font-family: 'Avenir Next', Helvetica, Arial, sans-serif;
+$sub-font: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
@@ -29,6 +30,11 @@ $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 $light-blue-color: #a7d0f9;
 $blue-color:       #6666ff;
+$white: white;
+
+// Instagram Variables
+$padding: 10px;
+$margin: 10px;
 
 // Width of the content area
 $content-width:    1600px;
@@ -52,3 +58,50 @@ $on-laptop:        1200px;
         "components/project",
         "components/ability"
 ;
+
+.instagram-wrap {
+    background: $grey-color-light;
+}
+
+.instagram-content {
+    h3 {
+        text-transform: uppercase;
+        letter-spacing: 0.5em;
+        font-size: 12px;
+        font-weight: 700;
+        text-align: center;
+        padding: $padding*5 0;
+        color: darken($grey-color-light, 20%);
+    }
+}
+.photo-box {
+        margin: 0 0 $margin*3 0;
+ 
+        .image-wrap {
+            img {
+                width: 100%;
+            }
+ 
+            .likes {
+                position: absolute;
+                bottom: 5px;
+                left: 15px;
+                padding: $padding/2;
+                background: $background-color;
+                background: rgba($background-color, 0.4);
+                color: $white;
+            }
+        }
+        .description {
+            font-family: $sub-font;
+            font-size: 12px;
+            background: $white;
+            color: $grey-color-dark;
+            letter-spacing: 1px;
+            padding: $padding*1.5;
+            height: 75px;
+            overflow: hidden;
+            white-space: nowrap;
+            text-overflow: ellipsis;
+        }
+    }
