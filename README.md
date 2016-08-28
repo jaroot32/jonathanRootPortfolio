@@ -1,4 +1,4 @@
-## Jonathan Root UI & Front-End Web Development
+## Jonathan Root Design
 ### about:
 Blog and Project Portfolio by: Jonathan Root
 ### features:
