@@ -25,16 +25,16 @@ $brand-color:      #797979;
 $yellow-color:     #f9f9a7;
 $red-color:        #f9a7a7;
 $purple-color:     #a7a7f9;
-$grey-color:       #56949b;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$grey-color:       #eeeeef;
+$grey-color-light: #eeeeee;
+$grey-color-dark:  #9b9b9b;
 $light-blue-color: #a7d0f9;
-$blue-color:       #6666ff;
-$white: white;
+$blue-color:       #3466a1;
+$white: #606060;
 
 // Instagram Variables
-$padding: 10px;
-$margin: 10px;
+$padding: 15px;
+$margin: 15px;
 
 // Width of the content area
 $content-width:    1600px;
@@ -96,7 +96,7 @@ $on-laptop:        1200px;
             font-family: $sub-font;
             font-size: 12px;
             background: $white;
-            color: $grey-color-dark;
+            color: white;
             letter-spacing: 1px;
             padding: $padding*1.5;
             height: 75px;

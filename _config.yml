@@ -1,5 +1,5 @@
 # Site settings
-title: Jonathan Root Design and Development Portfolio
+title: Jonathan Root Visual and Web Design Solutions Portfolio
 email: jonroot@me.com
 description: > # this means to ignore newlines until "baseurl:"
 
@@ -17,8 +17,8 @@ links:
       url: /About
     - title: Portfolio
       url: /Portfolio
-    - title: Process
-      url: /Process
+    - title: Approach
+      url: /Approach
     - title: Articles
       url: /Articles
 

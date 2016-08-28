@@ -8,7 +8,7 @@ featured_image: "/images/hthroots.png"
 ---
 
 
-## About: 
+## About:
 
 ### WordPress Bootstrap 3 w/Modern Front-end Development Workflow
 
