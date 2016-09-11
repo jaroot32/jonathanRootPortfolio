@@ -8,7 +8,7 @@ url: "http://jonathanrootdesign.com" # the base hostname & protocol for your sit
 github_username: jaroot32
 linked_username: jonathanroot
 
-
+exclude: [node_modules, gulpfile.js]
 
 permalink: /:categories/:title
 
