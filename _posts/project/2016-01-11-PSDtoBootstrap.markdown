@@ -5,27 +5,16 @@ date:   2016-01-11 23:13:02
 categories: project
 featured: true
 featured_image: "/images/PSD-to-Bootstrap-3.png"
+lead_image: "/images/PSD-to-Bootstrap-3.png"
 ---
 
-
-## About:
-
-### PSD to Bootstrap 3
-
-### Responsive - breaks down for major tablets & phones
-
-###  Bootstrap 3
-
-### Browsers - All modern browsers
-
-## Run:
-
-### [View on Github Pages](http://jaroot32.github.io/MechanixSite/)
-
-### or [Download](https://github.com/jaroot32/MechanixSite)
-
-### cd into directory
-
-### bower install
-
-### open index.html in your browser.
+<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+	<h2>About</h2>
+	<h3>PSD to Bootstrap 3</h3>
+	<h3>Responsive - breaks down for major tablets & phones</h3>
+	<h3>Bootstrap 3</h3>
+	<h3>Browsers - All modern browsers</h3>
+	<h2>Run</h2>
+	<a href="http://jaroot32.github.io/MechanixSite/"><h3>View on Github Pages</h3></a>
+	<a href="https://github.com/jaroot32/MechanixSite"><h3> or Download </h3></a>
+</div>

@@ -5,8 +5,8 @@ layout: page
 <div class="home">
  <!-- section for featured post -->
  <!-- section for featured projects -->
-<section class="site-section">
-  <h2>Featured Projects</h2>
+<section class="site-section text-center">
+  <h1>Featured Projects</h1>
     <ul class="project-list">
       {% for project in site.categories['project'] reversed | limit: 3 %}
       {% include project.html %}
@@ -16,7 +16,7 @@ layout: page
  <!-- section for latest articles -->
  <section class="site-section site-section-last">
   <div class="wrapper">
-    <h2>Latest Articles</h2>
+    <h1 class="text-center">Latest Articles</h1>
     <ul class="post-list">
       {% for post in site.categories['blog'] %}
       <li class="post">

@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Essential Equipment to Have On a Video Shoot"
+title:  "Essential Equipment to Have on a Video Shoot"
 date:   2015-07-03 14:43:02
 categories: blog
 tags: design
 ---
 
-Light and sound are two of the most important components to making great video content.    Too often though these variables are overlooked.  Many times it is hard to control the environment you're shooting in.  Using the right tools can help you maneuver tricky environments and enable you to capture the look and sound you're after.    
+Light and sound are two of the most important components to making great video content.   Too often though these variables are overlooked.  Many times it is hard to control the environment you're shooting in.  Using the right tools can help you maneuver tricky environments and enable you to capture the look and sound you're after.    
 
 Most DSLRs have a built in light meter that will read the light coming into the lens.  Be sure to also take a reading of light reflecting onto the subject, to make sure you set the correct exposure. 
 
