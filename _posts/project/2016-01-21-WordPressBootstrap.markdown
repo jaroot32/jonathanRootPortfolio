@@ -34,14 +34,8 @@ featured_image: "/images/DishesByDoe.png"
 	</div>
 </div>
 <div class="row">
-	<h1 class="align-left col-xs-12 col-sm-12 col-md-12 col-lg-12">	Visual Design*
-	</h1>
-</div>
-<div>
-	<h2>The Doe Fund</h2>
-	<p>
-		For more than 30 years, The Doe Fund, Inc. has provided a hand up, not a hand out to formerly homeless and incarcerated men. Through its award-winning Ready, Willing & Able program, The Doe Fund provides paid work, safe housing and occupational training. One such vocational track is our certified Culinary Arts Program. Dishes by Doe is a nonprofit catering affiliate of The Doe Fund. A byproduct of the Culinary Arts Program, Dishes by Doe provides hands on job training in the food service industry. Dishes by Doe is dedicated towards providing cost effective catering for a cause. All of the proceeds of our catering service go towards benefiting The Doe Fund and the men enrolled in the program. Each student enrolled in the Culinary Arts program graduates with 450 hours of hands-on experience, a Food Protection Certificate, a nationally recognized ServSafe license, and a Certificate of Completion in Customer Service Training. These tools enable the men  we serve to find jobs in some of New York City’s most-renowned restaurants and lead self-sufficient and fulfilling lives. Fueled by hard work and a love of food, these men are making a difference in their lives and the lives of millions of New Yorkers.
-	</p>
+	<h2 class="align-left col-xs-12 col-sm-12 col-md-12 col-lg-12">	Visual Design*
+	</h2>
 </div>
 <div class="row">
 	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
