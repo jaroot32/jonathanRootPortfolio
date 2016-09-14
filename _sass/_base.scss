@@ -121,20 +121,7 @@ ul, ol, dl, figure,
 %vertical-rhythm {
         margin-bottom: $spacing-unit / 6;
     }
-.post-list {
-        p {
-        -webkit-column-count: 2;
-        margin-left: 8px;
-    }
-        p::first-letter {
-            font-size: 3em;
-            font-weight: normal;
-            float: left;
-            line-height: 44px;
-            padding-top: 4px;
-            padding-right: 6px;
-        }
-    }
+
 /**
  * Images
  */
@@ -315,9 +302,11 @@ ul, ol, dl, figure,
 %vertical-rhythm {
     margin-bottom: $spacing-unit / 2;
 
-    p {
-    -webkit-column-count: 1;
-}
+  .post-list {
+        p {
+        -webkit-column-count: 1;
+        }
+    }
     p::first-letter {
         font-size: 2.75em;
         font-weight: normal;
@@ -327,4 +316,20 @@ ul, ol, dl, figure,
         padding-right: 4px;
     }
   }
+}
+@media (min-width: 1001px) {
+    .post-list {
+        p {
+        -webkit-column-count: 2;
+        margin-left: 8px;
+    }
+        p::first-letter {
+            font-size: 3em;
+            font-weight: normal;
+            float: left;
+            line-height: 44px;
+            padding-top: 4px;
+            padding-right: 6px;
+        }
+    }
 }
