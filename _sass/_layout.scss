@@ -64,6 +64,9 @@ h1 {
 .site-section {
     @extend %clearfix;
     background-color: #FDFDFD;
+    h1 {
+      margin: $spacing-unit;
+    }
 }
 
 .site-section-last {
