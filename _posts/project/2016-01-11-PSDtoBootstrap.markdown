@@ -8,7 +8,7 @@ featured_image: "/images/PSD-to-Bootstrap-3.png"
 lead_image: "/images/PSD-to-Bootstrap-3.png"
 ---
 
-<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
 	<h2>About</h2>
 	<h3>PSD to Bootstrap 3</h3>
 	<h3>Responsive - breaks down for major tablets & phones</h3>
