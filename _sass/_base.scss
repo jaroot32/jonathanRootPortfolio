@@ -24,14 +24,16 @@ body {
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
 }
-
+.step {
+    margin-top: $spacing-unit;
+}
 .nascar {
     .hovereffect {
         overflow:hidden;
         position:relative;
         text-align:center;
         cursor:default;
-        margin: .5em;
+        margin: $spacing-unit;
         h4 {
             text-align: left;
         }

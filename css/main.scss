@@ -17,7 +17,7 @@ $h2-font-size: 24px;
 $h3-font-size: 18px;
 $h4-font-size: 16px;
 
-$spacing-unit:     4em;
+$spacing-unit:     1.4em;
 
 $text-color:       #797979;
 $background-color: #FDFDFD;
@@ -60,7 +60,8 @@ $on-laptop:        1200px;
 ;
 
 .instagram-wrap {
-    background: $grey-color-light;
+    background: #fff;
+    margin-top: $spacing-unit;
 }
 
 .instagram-content {
@@ -75,7 +76,7 @@ $on-laptop:        1200px;
     }
 }
 .photo-box {
-        margin: 0 0 $margin*3 0;
+        margin: 0 0 $margin*4 0;
  
         .image-wrap {
             img {
@@ -87,8 +88,7 @@ $on-laptop:        1200px;
                 bottom: 5px;
                 left: 15px;
                 padding: $padding/2;
-                background: $background-color;
-                background: rgba($background-color, 0.4);
+                background-color: $background-color;
                 color: $white;
             }
         }
@@ -103,5 +103,6 @@ $on-laptop:        1200px;
             overflow: hidden;
             white-space: nowrap;
             text-overflow: ellipsis;
+            margin-top: $spacing-unit;
         }
     }
