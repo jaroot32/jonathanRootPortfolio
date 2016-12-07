@@ -56,7 +56,8 @@ $on-laptop:        1200px;
         "syntax-highlighting",
         "components/gradient-bar",
         "components/project",
-        "components/ability"
+        "components/ability",
+        "../bower_components/hover/scss/hover"
 ;
 
 .instagram-wrap {
@@ -77,12 +78,12 @@ $on-laptop:        1200px;
 }
 .photo-box {
         margin: 0 0 $margin*4 0;
- 
+
         .image-wrap {
             img {
                 width: 100%;
             }
- 
+
             .likes {
                 position: absolute;
                 bottom: 5px;

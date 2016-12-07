@@ -1,0 +1,25 @@
+{
+  "name": "bower.json",
+  "version": "1.0.0",
+  "homepage": "https://github.com/jaroot32/jonathanRootPortfolio",
+  "authors": [
+    "jaroot32 <jonathanroot15@gmail.com>"
+  ],
+  "description": "Bower JSON file",
+  "main": "bower.json",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.5",
+    "hover": "Hover#~2.1.0"
+  }
+}
