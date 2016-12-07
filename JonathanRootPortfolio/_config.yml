@@ -1,0 +1,26 @@
+# Site settings
+title: Jonathan Root Design and Development Portfolio
+email: jonroot@me.com
+description: > # this means to ignore newlines until "baseurl:"
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://jonathanrootdesign.com" # the base hostname & protocol for your site
+github_username: jaroot32
+linked_username: jonathanroot
+
+
+
+permalink: /:categories/:title
+
+links:
+    - title: About
+      url: /About
+    - title: Portfolio
+      url: /Portfolio
+    - title: Process
+      url: /Process
+    - title: Articles
+      url: /Articles
+
+# Build settings
+markdown: kramdown

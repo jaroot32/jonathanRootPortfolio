@@ -1,0 +1,65 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+
+
+// Our variables
+$base-font-family: 'Avenir Next', Helvetica, Arial, sans-serif;
+$base-font-size:   16px;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$mega-font-size: 50px;
+$h1-font-size: 36px;
+$h2-font-size: 24px;
+$h3-font-size: 18px;
+$h4-font-size: 16px;
+
+$spacing-unit:     25px;
+
+$text-color:       #797979;
+$background-color: #FDFDFD;
+$brand-color:      #797979;
+$yellow-color:     #f8f05d;
+$red-color:        #f85d65;
+$purple-color:     #5d65f8;
+$grey-color:       #56949b;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+$blue-color:       #6666ff;
+
+// Width of the content area
+$content-width:    1200px;
+
+$on-palm:          600px;
+$on-laptop:        1200px;
+
+
+
+@media ($on-palm) {
+     .wrapper {
+         padding-right: $spacing-unit / 2;
+         padding-left: $spacing-unit / 2;
+     }
+ }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+		"post",
+        "base",
+        "layout",
+        "syntax-highlighting",
+        "components/gradient-bar",
+        "components/project",
+        "components/ability"
+;
