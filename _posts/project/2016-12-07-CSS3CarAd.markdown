@@ -16,4 +16,4 @@ featured_image: "/images/CSS3CarBanner.png"
 ### [View on gh-pages](http://jaroot32.github.io/CSSCarAds/)
 
 
-
+![Car Ad Image](/images/CSS3CarBanner.png)
