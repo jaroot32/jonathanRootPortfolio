@@ -28,8 +28,6 @@ sass:
   style: compressed
 sass:
   sass_dir: _sass
-include:
-  - .nojekyll
 exclude:
   - "bower_components"
   - "bower.json"
