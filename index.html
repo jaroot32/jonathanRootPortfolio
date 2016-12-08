@@ -8,8 +8,8 @@ layout: page
 <section class="site-section text-center">
   <h1>Featured Projects</h1>
     <ul class="project-list">
-      {% for project in site.categories['project'] | limit: 3 %}
-      {% include project.html %}
+      {% for project in site.categories['project'] limit: 3 %}
+        {% include project.html %}
       {% endfor %}
     </ul>
 </section>
