@@ -8,7 +8,7 @@ var shell = require('gulp-shell');
 var browserSync = require('browser-sync').create();
 
 gulp.task("concatScripts", function(){
-	gulp.src(['bower_components/isotope-layout/dist/isotope.pkgd.min.js', 'bower_components/jquery/dist/jquery.min.js', 'js/instafeed.min.js', 'js/jquery.animsition.js', 'js/main.js'])
+	gulp.src(['bower_components/jquery/dist/jquery.min.js', 'js/instafeed.min.js', 'js/jquery.animsition.js', 'bower_components/scrollreveal/dist/scrollreveal.min.js', 'js/app.js'])
 	.pipe(concat("app.js"))
 	.pipe(gulp.dest("js"));
 });

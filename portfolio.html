@@ -5,12 +5,12 @@ permalink: /Portfolio/
 ---
 
 <div class="site-section site-section-last">
-	<div class="post-header">
+	<div class="post-header site-reveal">
 		<h1>Portfolio</h1>
 	</div>
 	<ul class="project-list">
 		{% for project in site.categories['project'] %}
-			<li class="project">
+			<li class="project site-reveal">
 				{% include project.html %}
 			</li>
 		{% endfor %}

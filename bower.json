@@ -20,6 +20,7 @@
   ],
   "dependencies": {
     "bootstrap": "v4.0.0-alpha.5",
-    "hover": "Hover#~2.1.0"
+    "hover": "Hover#~2.1.0",
+    "scrollreveal": "~3.3.2"
   }
 }
