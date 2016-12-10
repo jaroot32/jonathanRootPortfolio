@@ -13,7 +13,7 @@ $("document").ready(function() {
         reset:  false,
         duration: 750,
         delay:  '0',
-        opacity: .2,
+        opacity: 0,
         vFactor: 0.2,
         mobile: false
         }
