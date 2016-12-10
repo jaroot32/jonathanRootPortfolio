@@ -7,17 +7,19 @@ $("document").ready(function() {
         $("header").removeClass("active");
         }
     });
+
      // Scrollreveal initialize
         var config = {
         easing: 'ease-in-out',
         reset:  false,
-        duration: 750,
+        duration: 400,
         delay:  '0',
         opacity: 0,
         vFactor: 0.2,
-        mobile: false
+        mobile: true
         }
         window.sr = new ScrollReveal(config);
+        document.documentElement.classList.remove('sr');
         sr.reveal('.site-reveal');
     });
 
