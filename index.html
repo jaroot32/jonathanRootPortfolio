@@ -5,8 +5,8 @@ layout: page
 <div class="home">
  <!-- section for featured post -->
  <!-- section for featured projects -->
-<section class="site-section text-center site-reveal">
-  <h1>Featured Projects</h1>
+<section class="site-section text-center">
+  <h1 class="site-reveal">Featured Projects</h1>
     <ul class="project-list">
       {% for project in site.categories['project'] limit: 3 %}
         {% include project.html %}
