@@ -40,13 +40,10 @@ featured_image: "/images/DishesByDoe.png"
 <div class="row">
 	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 		<h3>Situation</h3>
-
 		<h4>
 			Create a tri-fold menu with images and content provided by the client.
 		</h4>
-
 		<h3>Objective</h3>
-
 		<h4>
 			Practice intermediate principles of graphic design and Bohemian Sketch.
 		</h4>
@@ -54,12 +51,10 @@ featured_image: "/images/DishesByDoe.png"
 </div>
 <div class="row text-center">
 	<h3>Result</h3>
-
-<h4>Before</h4>
-
-<h4><a href="/images/BeforeMenu.pdf">Download Menu PDF</a></h4>
-<h4>After</h4>
+	<h4>Before</h4>
+	<h4><a href="/images/BeforeMenu.pdf">Download Menu PDF</a></h4>
+	<h4>After</h4>
+	<img src="/images/InsideMenu.jpg" alt="Trifold Menu Inside">
+	<img src="/images/OutsideMenu.jpg" alt="Trifold Menu Outside">
+	<h3>* For this project I also created the catering menu.</h3>
 </div>
-<img src="/images/InsideMenu.jpg" alt="Trifold Menu Inside">
-<img src="/images/OutsideMenu.jpg" alt="Trifold Menu Outside">
-<h3>* For this project I also created the catering menu.</h3>
