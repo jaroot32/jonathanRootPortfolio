@@ -28,7 +28,7 @@ featured_image: "/images/DishesByDoe.png"
 		Overall, I was able to preserve an archive of over 100 pages and several hundred photos.
 	</h4>
 </div>
-<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 text-center">
 	<img src="/images/DishesByDoe.png" alt="Nonprofit Theme Website Screenshot">
 </div>
 <div class="row">
