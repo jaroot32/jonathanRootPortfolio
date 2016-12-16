@@ -1,22 +1,22 @@
 'use strict';
 
 var gulp = require('gulp');
-var sass  = require('gulp-sass');
+var sass = require('gulp-sass');
 var concat = require('gulp-concat');
 var uglify = require('gulp-uglify');
 var shell = require('gulp-shell');
 var browserSync = require('browser-sync').create();
 
 gulp.task("concatScripts", function(){
-	gulp.src(['bower_components/jquery/dist/jquery.min.js', 'js/instafeed.min.js', 'js/jquery.animsition.js', 'bower_components/scrollreveal/dist/scrollreveal.min.js', 'js/app.js'])
+	gulp.src(['bower_components/jquery/dist/jquery.min.js', 'js/jquery.animsition.js', 'bower_components/scrollreveal/dist/scrollreveal.min.js', 'js/app.js'])
 	.pipe(concat("app.js"))
-	.pipe(gulp.dest("js"));
+	.pipe(gulp.dest("_site/js"));
 });
 
 gulp.task("minifyScripts", function () {
 	gulp.src("js/app.js")
 		.pipe(uglify())
-		.pipe(gulp.dest('js'));
+		.pipe(gulp.dest('_site/js'));
 });
 
 gulp.task('sass', function () {
@@ -35,6 +35,7 @@ gulp.task('sass', function () {
  * Watch scss files for changes & recompile
  * Watch html/md files, run jekyll & reload BrowserSync
  */
+
 gulp.task('watch', function () {
     gulp.watch('_scss/*.scss', ['sass']);
     gulp.watch(['*.html', '_layouts/*.html', '_posts/*'], ['jekyll-rebuild']);

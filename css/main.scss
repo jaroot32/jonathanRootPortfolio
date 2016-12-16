@@ -56,57 +56,20 @@ $on-laptop:        1200px;
         "syntax-highlighting",
         "components/gradient-bar",
         "components/project",
-        "components/ability",
         "../bower_components/hover/scss/hover"
 ;
 
-.instagram-wrap {
+.instagram-content {
     background: #fff;
     margin-top: $spacing-unit;
-}
-
-.instagram-content {
-    h3 {
-        text-transform: uppercase;
-        letter-spacing: 0.5em;
-        font-size: 12px;
-        font-weight: 700;
-        text-align: center;
-        padding: $padding*5 0;
-        color: darken($grey-color-light, 20%);
+    text-align: center;
+    display: flex wrap;
+    justify-content: space-between;
+    img {
+        padding: .25em;
+        max-width: 100%;
     }
 }
-.photo-box {
-        margin: 0 0 $margin*4 0;
-
-        .image-wrap {
-            img {
-                width: 100%;
-            }
-
-            .likes {
-                position: absolute;
-                bottom: 5px;
-                left: 15px;
-                padding: $padding/2;
-                background-color: $background-color;
-                color: $white;
-            }
-        }
-        .description {
-            font-family: $sub-font;
-            font-size: 12px;
-            background: $white;
-            color: white;
-            letter-spacing: 1px;
-            padding: $padding*1.5;
-            height: 75px;
-            overflow: hidden;
-            white-space: nowrap;
-            text-overflow: ellipsis;
-            margin-top: $spacing-unit;
-        }
-    }
 .nascar {
     .hovereffect {
         overflow: hidden;

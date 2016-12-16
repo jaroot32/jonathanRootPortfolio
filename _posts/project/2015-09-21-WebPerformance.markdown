@@ -53,7 +53,7 @@ featured_image: "/images/Cameron-Pittman-Portfolio.png"
 
 ## [View the site on Github Pages](http://jaroot32.github.io/optimizationSite/)
 
-##Here is the final edited app.js file
+## Here is the final edited app.js file
 
 	// Measuring the Critical Rendering Path with Navigation Timing
 	// https://developers.google.com/web/fundamentals/performance/critical-rendering-path/measure-crp
