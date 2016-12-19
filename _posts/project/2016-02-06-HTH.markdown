@@ -5,21 +5,25 @@ date:   2016-02-06 23:13:02
 categories: project
 featured: true
 featured_image: "/images/hthroots.png"
-lead_image: "/images/hthroots.png"
 ---
-<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-	<h2>About</h2>
-	<p>
-		Hope Through Health believes that communities can transform the dynamics of health care delivery. The involvement of community members ensures that programs respond directly to patient priorities. By empowering community members, we see a range of practical benefits including decreased stigma, increased capacity and skills of local community members, greater patient engagement, increased information sharing, and higher staff motivation.
-	</p>
-	<h3>WordPress Bootstrap 3</h3>
-	<h4>Mobile First - breaks down for major tablets & phones</h4>
-	<h3>WordPress CMS - Site uses WordPress CMS as a backend and can be updated by site admins.</h3>
-	<h3>Bootstrap 3</h3>
-	<h3>Browsers - All modern browsers</h3>
-	<p>For this website I used a modern Front-end Development kit called <a href="https://roots.io/sage/">Sage</a>.  Sage uses Bootstrap, Gulp, Sass, and Bower for package dependencies.  I used Vagrant as my local environment with a package called Trellis.  Both Sage and Trellis are part of Roots. Roots strives to keep up with a modern front-end workflow, open source tools, and a lean backend by employing DRY programming principles wherever possible.
-	</p>
-	<h4>Overall, I was able to preserve an archive of over 100 pages and several hundred photos.</h4>
-	<h3>Theme Files Available Upon Request</h3> 
+<div class="project-container">
+	<div class="project-item">
+		<h2>About</h2>
+		<p>
+			Hope Through Health believes that communities can transform the dynamics of health care delivery. The involvement of community members ensures that programs respond directly to patient priorities. By empowering community members, we see a range of practical benefits including decreased stigma, increased capacity and skills of local community members, greater patient engagement, increased information sharing, and higher staff motivation.
+		</p>
+		<h3>WordPress Bootstrap 3</h3>
+		<h4>Mobile First - breaks down for major tablets &amp; phones</h4>
+		<h3>WordPress CMS - Site uses WordPress CMS as a backend and can be updated by site admins.</h3>
+		<h3>Bootstrap 3</h3>
+		<h3>Browsers - All modern browsers</h3>
+		<p>For this website I used a modern Front-end Development kit called <a href="https://roots.io/sage/">Sage</a>.  Sage uses Bootstrap, Gulp, Sass, and Bower for package dependencies.  I used Vagrant as my local environment with a package called Trellis.  Both Sage and Trellis are part of Roots. Roots strives to keep up with a modern front-end workflow, open source tools, and a lean backend by employing DRY programming principles wherever possible.
+		</p>
+		<h4>Overall, I was able to preserve an archive of over 100 pages and several hundred photos.</h4>
+		<h3>Theme Files Available Upon Request</h3>
+	</div>
+	<div class="project-item align-project-image">
+		<img src="/images/hthroots.png" alt="Nonprofit Website Theme Screenshot">
+	</div>
 </div>
 
