@@ -68,10 +68,10 @@ h1 {
   display: flex;
   -webkit-flex-flow: row wrap;
   flex-flow: row wrap;
+  justify-content: space-between;
 }
 
 .project-item {
-  padding: 2rem;
   flex: 1 100%;
 }
 
@@ -83,7 +83,7 @@ h1 {
   display: flex;
   -webkit-flex-flow: row wrap;
   flex-flow: row wrap;
-  justify-content: space-around;
+  justify-content: center;
 }
 
 .flex-logo {
