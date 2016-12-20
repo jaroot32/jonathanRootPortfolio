@@ -8,7 +8,7 @@ tags: snippet
 
 Pixelmator is a great program for photo and graphic editing.
 
-Freepik is an awesome resource for graphic work by amazing graphic artists. The resources I am using in this tutorial are linked at the bottom.
+Freepik is an awesome resource for graphic work by amazing graphic artists.&nbsp; The resources I am using in this tutorial are linked at the bottom.
 
 Start with a set of icons. Be sure to credit whichever artist you chose.
 

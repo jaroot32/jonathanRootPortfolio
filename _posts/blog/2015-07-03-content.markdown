@@ -7,9 +7,9 @@ featured: true
 tags: contentCircle
 ---
 
-While serving as volunteer executive director for a dermatology non-profit, I made the suggestion to start a PRWeb program. I ghost wrote for the organization's lead dermatologist and president.
+While serving as volunteer executive director for a dermatology non-profit, I made the suggestion to start a PRWeb program.&nbsp; I ghost wrote for the organization's lead dermatologist and president.
 
-The three graph images are PRWeb "insights-report" comparing four articles on traffic (impressions), interactions, and full-page reads.  As a result, the organization saw unprecedented amounts of web traffic, user sign-ups, and overall growth.
+The three graph images are PRWeb "insights-report" comparing four articles on traffic (impressions), interactions, and full-page reads.&nbsp;  As a result, the organization saw unprecedented amounts of web traffic, user sign-ups, and overall growth.
 
 
 ![Full Page Reads](/images/fullPageReads.png)

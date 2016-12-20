@@ -1,31 +1,37 @@
 ---
 layout: post
-title:  "Using the InstafeedJS API"
+title:  "Using AJAX and the Instagram API"
 date:   2015-07-02 14:43:02
 categories: blog
 tags: layout
 ---
 
-## A fun way to integrate your Instagram account with your website.
+## Using AJAX to integrate your Instagram account with your website.
 
-Below I have the few lines of script that I am running on my about page.  The accessToken you can get from Instagram by signing up with a developer account.  Remember to link your source code at the bottom of your html document. 
+Below I have the few lines of AJAX script that I am running on my about page.  The accessToken you can get from Instagram by signing up with a developer account.
 
-[View InstafeedJS](http://www.instafeedjs.com)
+    var token = 'XXXXX', // learn how to obtain it below
+    userid = XXXXX, // User ID - get it in source HTML of your Instagram profile or look at the next example :)
+    num_photos = 12; // how many photos do you want to get
 
-    <script type="text/javascript">
+    $.ajax({
+        url: 'https://api.instagram.com/v1/users/' + userid + '/media/recent', // or /users/self/media/recent for Sandbox
+        dataType: 'jsonp',
+        type: 'GET',
+        data: {access_token: token, count: num_photos},
+        success: function(data){
+            console.log(data);
+            for( x in data.data ){
+                $('.instagram-content').append('<a href="'+data.data[x].link+'"><img src="'+data.data[x].images.low_resolution.url+'"></a>');
 
-    var userFeed = new Instafeed({
-        get: 'user',
-        userId: 1408653501,
-        accessToken: 'XXXXXXXXXXXXX’',
-        useHttp: true,
-        links: true,
-        limit: 28,
-        resolution: 'thumbnail',
-
-    });
-    userFeed.run();
-
-    </script>
+                // data.data[x].images.low_resolution.url - URL of image, 306х306
+                // data.data[x].images.thumbnail.url - URL of image 150х150
+                // data.data[x].images.standard_resolution.url - URL of image 612х612
+                // data.data[x].link - Instagram post URL
+            }
+        },
+        error: function(data){
+            console.log(data); // send the error notifications to console
+        }
 
 
