@@ -8,7 +8,7 @@ tags: layout
 
 ## Using AJAX to integrate your Instagram account with your website.
 
-Below I have the few lines of AJAX script that I am running on my about page.  The accessToken you can get from Instagram by signing up with a developer account.
+Below I have the few lines of AJAX script that I am running on my about page.&nbsp;&nbsp; The accessToken you can get from Instagram by signing up with a developer account.&nbsp;&nbsp;
 
     var token = 'XXXXX', // learn how to obtain it below
     userid = XXXXX, // User ID - get it in source HTML of your Instagram profile or look at the next example :)

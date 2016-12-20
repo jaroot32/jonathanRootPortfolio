@@ -6,18 +6,18 @@ categories: blog
 tags: snippet
 ---
 
-Pixelmator is a great program for photo and graphic editing.
+Pixelmator is a great program for photo and graphic editing.&nbsp;&nbsp;
 
-Freepik is an awesome resource for graphic work by amazing graphic artists.&nbsp; The resources I am using in this tutorial are linked at the bottom.
+Freepik is an awesome resource for graphic work by amazing graphic artists.&nbsp;&nbsp; The resources I am using in this tutorial are linked at the bottom.&nbsp;&nbsp;
 
-Start with a set of icons. Be sure to credit whichever artist you chose.
+Start with a set of icons. Be sure to credit whichever artist you chose.&nbsp;&nbsp;
 
 ![Face Icon Designs](/images/faceIcons.png)
 
-Use the background removal tool to isolate each icon apart from it's background color.
+Use the background removal tool to isolate each icon apart from it's background color.&nbsp;&nbsp;
 
 
-Use the grids under view to help with centering.
+Use the grids under view to help with centering.&nbsp;&nbsp;
 
 ![Face Icon Centered](/images/faceswithGrid.png)
 
