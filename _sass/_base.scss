@@ -28,9 +28,9 @@ body {
     -webkit-text-size-adjust: 100%;
 }
 .step {
-    margin-top: $spacing-unit;
+    padding-right: $spacing-unit * 2;
+    padding-left: $spacing-unit * 2;
 }
-
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
