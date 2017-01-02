@@ -4,13 +4,13 @@ title: Portfolio
 permalink: /Portfolio/
 ---
 
-<div class="site-section site-section-last">
+<div class="site-section site-section-last site-reveal">
 	<div class="post-header site-reveal">
 		<h1>Portfolio</h1>
 	</div>
 	<ul class="project-list">
 		{% for project in site.categories['project'] %}
-			<li class="project site-reveal">
+			<li class="project">
 				{% include project.html %}
 			</li>
 		{% endfor %}
