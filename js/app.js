@@ -30,8 +30,7 @@ $("document").ready(function() {
 	var elem = document.querySelector('.project-list');
 		var msnry = new Masonry( elem, {
 		  // options
-		  itemSelector: '.project',
-		  columnWidth: 200
+		  itemSelector: '.project'
 		});
 
 		// element argument can be a selector string
