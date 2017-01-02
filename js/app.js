@@ -13,7 +13,6 @@ $("document").ready(function() {
         $("header").removeClass("active");
         }
     });
-
      // Scrollreveal initialize
         var config = {
         easing: 'ease-in-out',
@@ -28,6 +27,18 @@ $("document").ready(function() {
         document.documentElement.classList.remove('sr');
         sr.reveal('.site-reveal');
     });
+	var elem = document.querySelector('.project-list');
+		var msnry = new Masonry( elem, {
+		  // options
+		  itemSelector: '.project',
+		  columnWidth: 200
+		});
+
+		// element argument can be a selector string
+		//   for an individual element
+		var msnry = new Masonry( '.project-list', {
+		  // options
+		});
 
 var token = '1408653501.b04a526.f87ffd928214443f9c998470619e8290', // learn how to obtain it below
     userid = 1408653501, // User ID - get it in source HTML of your Instagram profile or look at the next example :)
