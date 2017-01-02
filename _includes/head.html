@@ -6,18 +6,5 @@
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.url }}" />
-  <!-- load and instantiate ScrollReveal first -->
-  <script src="https://unpkg.com/scrollreveal@3.3.2/dist/scrollreveal.min.js"></script>
-    <script>
-      window.sr = ScrollReveal();
-      // Add class to <html> if ScrollReveal is supported
-      if (sr.isSupported()) {
-        document.documentElement.classList.add('sr');
-      }
-    </script>
-    <style>
-      /* Ensure elements load hidden before ScrollReveal runs */
-      .sr { visibility: hidden; }
-    </style>
   <link rel="stylesheet" href="/css/main.css"/>
 </head>
