@@ -8,15 +8,15 @@ var shell = require('gulp-shell');
 var browserSync = require('browser-sync').create();
 
 gulp.task("concatScripts", function(){
-	gulp.src(['bower_components/jquery/dist/jquery.min.js', 'bower_components/masonry/dist/masonry.js', 'js/jquery.animsition.js', 'bower_components/scrollreveal/dist/scrollreveal.min.js', 'js/app.js'])
+	gulp.src(['bower_components/jquery/dist/jquery.min.js', 'bower_components/masonry/dist/masonry.pkgd.min.js', 'bower_components/scrollreveal/dist/scrollreveal.min.js', 'js/app.js'])
 	.pipe(concat("app.js"))
-	.pipe(gulp.dest("_site/js"));
+	.pipe(gulp.dest("js"));
 });
 
 gulp.task("minifyScripts", function () {
 	gulp.src("js/app.js")
 		.pipe(uglify())
-		.pipe(gulp.dest('_site/js'));
+		.pipe(gulp.dest('js'));
 });
 
 gulp.task('sass', function () {
