@@ -29,12 +29,11 @@ $("document").ready(function() {
     });
 
  $(window).on('load', function(){
-		 var elem = document.querySelector('.project-list');
-		 var msnry = new Masonry(elem, {
+		 var container = document.querySelector('#masonList');
+		 var msnry = new Masonry(container, {
 		   // options
-		   itemSelector: '.project',
+		   itemSelector: ".project",
 		   isAnimated: true,
-		   columnWidth: 200,
 		   animationOptions: {
                 duration: 700,
                 easing: 'linear',
@@ -44,9 +43,6 @@ $("document").ready(function() {
 
 		 // element argument can be a selector string
 		 //   for an individual element
-		 var msnry = new Masonry('.project-list', {
-		   // options
-		 });
 });
 
 var token = '1408653501.b04a526.f87ffd928214443f9c998470619e8290', // learn how to obtain it below

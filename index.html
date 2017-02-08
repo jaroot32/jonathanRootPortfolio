@@ -7,7 +7,7 @@ layout: page
  <!-- section for featured projects -->
 <section class="site-section">
   <h1 class="align-center">Featured Projects</h1>
-    <ul class="project-list">
+    <ul class="project-list" id="masonList">
       {% for project in site.categories['project'] limit: 3 %}
         {% include project.html %}
       {% endfor %}
