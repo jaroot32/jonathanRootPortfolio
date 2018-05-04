@@ -1,10 +1,10 @@
 # Site settings
-title: Jonathan Root Front End Web Development Portfolio
+title: Jonathan Root Web Development Portfolio
 email: jonroot@me.com
 description: > # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://jonathanrootdesign.com" # the base hostname & protocol for your site
+url: "http://jonathanrootdeveloper.com" # the base hostname & protocol for your site
 github_username: jaroot32
 linked_username: jonathanroot
 
@@ -17,6 +17,8 @@ links:
       url: /About
     - title: Portfolio
       url: /Portfolio
+    - title: Approach
+      url: /Approach
     - title: Articles
       url: /Articles
 

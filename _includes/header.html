@@ -1,6 +1,10 @@
 <header role="banner">
-	<nav role="navigation" id="sticker" class="site-nav gradient-bar">
-	  	<ul>
+	<div class="nameAndMenu">
+		<h1><span class="thicker">Jonathan</span> Root</h1>
+		<div class="menuDrop">Menu</div>
+	</div>
+	<nav role="navigation" id="sticker" class="site-nav">
+	  	<ul class="menu">
 	    	{% for link in site.links %}
 	      	<li class="hvr-grow"><a href="{{ link.url }}">{{ link.title }}</a></li>
 	    	{% endfor %}
@@ -8,7 +12,9 @@
 	</nav>
 </header>
 <div class="parallax">
-	<div class="logo">
-		<h1><a href="/">Jonathan Root <br>Front End Web Development</a></h1>
+	<div class="title">
+		<div class="logo">
+			<h1><a href="/">Mobile Web Developer <span>and</span> <span>Digital Marketing Specialist</span></a></h1>
+		</div>
 	</div>
 </div>

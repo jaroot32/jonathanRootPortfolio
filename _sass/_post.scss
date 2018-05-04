@@ -7,6 +7,8 @@
 	float: left;
 	width: 50%;
 	padding:  0 3em 1em;
+	text-align: justify;
+	word-break: break-all;
 
 	&:nth-child(odd) {
 		clear: both;
@@ -41,7 +43,7 @@
 
 .post-header {
 	text-align: center;
-	margin-top: 2em;
+	margin: 1em;
 }
 
 .post-title {
