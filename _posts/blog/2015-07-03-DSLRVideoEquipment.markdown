@@ -39,7 +39,5 @@ The video below is an ideal example of how a physician practice can create an in
 
 *Video and audio production is done in partnership with Stage Snake Studios.&nbsp;&nbsp; Audio and video mixing, editing, and mastering is also available upon request.&nbsp;&nbsp;
 
-## [View more information on Jason and the Stage Snake Studio.](http://www.jasonperno.com/#!services/c1h6a)
-
 
 [![Q&A HD Video](/images/videoPlayButton.png)](https://youtu.be/0JNVj6eAHDs)
