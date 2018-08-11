@@ -160,7 +160,6 @@ pre {
     margin-left: auto;
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
-    @extend %clearfix;
 
     @include media-query($on-laptop) {
         max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
@@ -172,7 +171,7 @@ pre {
 
 /**
  * Clearfix
- */
+ 
 %clearfix {
     &:after {
         content: "";
@@ -180,7 +179,7 @@ pre {
         clear: both;
     }
 }
-
+*/
 /**
  * Icons
  */
@@ -225,11 +224,10 @@ pre {
     }
     p::first-letter {
         font-size: 2.75em;
-        font-weight: normal;
-        float: left;
         line-height: 44px;
-        padding-top: 4px;
-        padding-right: 4px;
+        font-weight: light;
+        float: left;
+        padding-right: 5px;
     }
   }
 }
@@ -237,15 +235,13 @@ pre {
     .post-list {
         p {
         -webkit-column-count: 2;
-        margin-left: 8px;
     }
         p::first-letter {
-            font-size: 3em;
-            font-weight: normal;
             float: left;
             line-height: 44px;
-            padding-top: 4px;
-            padding-right: 6px;
+            font-size: 3em;
+            font-weight: light;
+            padding-right: 5px;
         }
     }
 }
