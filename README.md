@@ -1,4 +1,4 @@
-## Jonathan Root Design: Visual & Web Design Solutions
+## Jonathan Root: Mobile Web Specialist
 ### about:
 Blog and Project Portfolio by: Jonathan Root
 ### features:
