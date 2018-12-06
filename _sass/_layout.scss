@@ -35,6 +35,11 @@ header.active {
     color: black;
     font-weight: 300;
   }
+  .name {
+    a:link {
+      text-decoration: none;
+  }
+  }
 }
 .menuDrop {
   visibility: hidden;
