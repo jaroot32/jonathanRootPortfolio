@@ -1,5 +1,3 @@
 # Jonathan Root Development
-## about:
-### Blog and Project Portfolio by: Jonathan Root
-### features:
-Jekyll JS
+## Blog and Project Portfolio
+### features: Jekyll JS
